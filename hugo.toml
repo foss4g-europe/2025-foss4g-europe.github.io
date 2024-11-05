@@ -1,0 +1,548 @@
+######################## default configuration ####################
+baseURL = "https://2025-foss4g-europe.github.io"
+title = "FOSS4G Europe 2025"
+theme = "eventre-hugo"
+# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timeZone = "America/New_York"
+# post pagination
+paginate = 6 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+# google analytics
+googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# disqus short name
+disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+# disable language
+disableLanguages = [
+] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+resampleFilter = "lanczos"
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/font-awesome/css/all.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/mixitup/mixitup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = ""
+
+
+####################### navigation ##########################
+
+# main menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+# [[menu.main]]
+# name = "Call for papers"
+# url = "call-for-papers/"
+# weight = 3
+# hasChildren = true
+
+#  [[menu.main]]
+#  weight = 1
+#  parent = "Call for papers"
+#  name = "Map Gallery Submission"
+#  url = "map-gallery-submission"
+
+ 
+
+ 
+  [[menu.main]]
+  parent = "About"
+  name = "FAQ"
+  url = "faq/"
+  weight = 3
+
+  [[menu.main]]
+  parent = "About"
+  name = "Code of Conduct"
+  url = "coc/"
+  weight = 4
+
+
+#  [[menu.main]]
+#  parent = "About"
+#  name = "GDPR"
+#  url = "gdpr/"
+#  weight = 6
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  url = "pricing/"
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Schedule"
+#  url = "schedule/"
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Testimonial"
+#  url = "testimonial/"
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 8
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo1.png"
+logo_footer = "images/logo1.png"
+logo_width = "100px"
+# Meta data
+description = "The FOSS4G Europe 2024 conference is taking place 1-7 July in the beautiful city of Tartu, Estonia."
+author = "Themefisher"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Get your ticket!"
+icon = "images/icon/ticket.png"
+link = "https://pretix.eu/foss4ge2024/tartu/"
+
+# Subscription
+# [params.subscription]
+# enable = true
+# title = "Subscribe to Our Newsletter"
+# content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
+# mailchimp subsciption
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# google map
+[params.map]
+enable = true
+map_latitude = 43.34421
+map_longitude = 17.80118
+map_zoom = 15
+map_marker = "images/marker.png"
+name = ""
+location = "Mostar,<br> Bosnia-Herzegovina."
+email = "info-europe@foss4g.org"
+link = "https://geograafia.ut.ee/en"
+popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
+popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
+popupTemplatePrefix = "<ul>"
+popupTemplate = "<li>{name} ({date})</li>"
+popupTemplateUrlInt = "<li><a href=\"{url}\">{name}</a> ({date})</li>"
+popupTemplateUrlExt = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateSuffix = "</ul>"
+
+[[params.map.icon]]
+type = "fa"
+name = "venue"
+icon = "building-columns"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "social"
+icon = "user-group"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "pubcrawl"
+icon = "martini-glass-empty"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "airport"
+icon = "plane-departure"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "bus"
+icon = "bus"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "train"
+icon = "train"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "familyfirendly"
+icon = "child-reaching"
+markerColor = "#f06a36"
+
+# [[params.map.layer]]
+# id = 1
+# name = "Conference Venues"
+# title = "Department of Geography"
+# address = "Vanemuise 46"
+# location = [43.33944,17.79768]
+# icon = "venue"
+# events = [
+#  {name="Registration desk", date="1-5 July"},
+#  {name="Workshops", date="1-2 July", url="./schedule/workshops/"},
+#  {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
+#  {name="Community sprint", date="6-7 July", url="./schedule/community-sprint/"},
+# ]
+# url = "https://ut.ee/en/department-geography"
+
+[[params.map.layer]]
+id = 2
+name = "Conference Venues"
+title = "Mart Reiniku Building"
+address = "Vanemuise 48"
+location = [58.3727794, 26.7154241]
+icon = "venue"
+events = [
+  {name="Expo area", date="1-5 July"},
+  {name="Catering", date="1-5 July"},
+  {name="B2B", date="2 July", url="./schedule/b2b/"},
+]
+
+[[params.map.layer]]
+id = 3
+name = "Conference Venues"
+title = "Omicum Building"
+address = "Riia 23"
+location = [58.3729187, 26.7178599]
+icon = "venue"
+events = [
+  {name="OGC EUiDays", date="1-2 July", url="./schedule/ogc-euidays/"},
+  {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
+]
+url = "https://tymri.ut.ee/en/content/omicum-gallery"
+
+[[params.map.layer]]
+id = 4
+name = "Arrival Points"
+title = "Train station"
+address = "Vaksali 6"
+location = [58.3738263, 26.7065496]
+icon = "train"
+url = "https://elron.ee/en"
+
+[[params.map.layer]]
+id = 5
+name = "Arrival Points"
+title = "Airport"
+address = "Lennu 44, Reola"
+location = [58.3102139, 26.6907256]
+icon = "airport"
+url = "https://airport.ee/en/tartu-airport/"
+
+[[params.map.layer]]
+id = 6
+name = "Arrival Points"
+title = "Bus station"
+address = "Turu 2"
+location = [58.3780643, 26.7321921]
+icon = "bus"
+url = "https://www.tpilet.ee/en/"
+
+[[params.map.layer]]
+id = 7
+name = "Social Events"
+title = "Emajõe Lodjakoda"
+address = "Ujula 98"
+img="images/map-icons/lodjaselts.jpg"
+location = [58.3912830, 26.7138550]
+icon = "social"
+events = [
+  {name="Social Bytes", date="4 July", url="./schedule/social-bytes/"},
+]
+url = "https://lodi.ee/en"
+
+[[params.map.layer]]
+name = "Social Events"
+id = 8
+title = "City Hall square"
+address = "Raekoja plats 1a"
+location = [58.380139, 26.722391]
+icon = "social"
+events = [
+  {name="City Tour", date="1 and 2 July", url="./schedule/city-tour/"},
+]
+url = "https://visittartu.com/town-hall-square-tartu"
+
+[[params.map.layer]]
+id = 9
+name = "Social Events"
+title = "Kultuuriklubi Salong"
+address = "Vanemuise 19"
+img="images/map-icons/salong.jpg"
+location = [58.3762006, 26.7214524]
+icon = "social"
+events = [
+  {name="Geochicas take Tartu!", date="2 July", url="./schedule/geochicas-take-tartu/"},
+]
+url = "https://www.facebook.com/kultuuriklubiSalong/"
+
+[[params.map.layer]]
+id = 10
+name = "Social Events"
+title = "Kolm Tilli"
+address = "Kastani 42"
+img="images/map-icons/kolmtilli.jpg"
+location = [58.3703996, 26.7165455]
+icon = "social"
+events = [
+  {name="Ice-Breaker", date="3 July", url="./schedule/ice-breaker/"},
+]
+url = "https://www.facebook.com/kolmtilli/"
+
+[[params.map.layer]]
+id = 11
+name = "Pub Crawl"
+title = "Mülä"
+img = "images/map-icons/myla.png"
+address = "Kroonuaia 76"
+location = [58.386078, 26.721008]
+icon = "pubcrawl"
+url = "https://www.facebook.com/mulabaar/"
+
+[[params.map.layer]]
+id = 12
+name = "Pub Crawl"
+title = "Möku"
+img = "images/map-icons/moku.png"
+address = "Magasini 5"
+location = [58.383479, 26.721896]
+icon = "pubcrawl"
+url = "https://www.facebook.com/mokubaar/"
+
+[[params.map.layer]]
+id = 13
+name = "Pub Crawl"
+title = "Vein ja Vine"
+img = "images/map-icons/veinjavine.png"
+address = "Rüütli 8"
+location = [58.38115, 26.72175]
+icon = "pubcrawl"
+url = "https://www.facebook.com/veinjavine/"
+
+[[params.map.layer]]
+id = 14
+name = "Pub Crawl"
+title = "Illegaard"
+img = "images/map-icons/illegaard.png"
+address = "Ülikooli 5"
+location = [58.37935, 26.7223]
+icon = "pubcrawl"
+url = "https://www.facebook.com/p/Illegaard-100063644106749/"
+
+[[params.map.layer]]
+id = 15
+name = "Pub Crawl"
+title = "Pühaste kelder"
+img = "images/map-icons/pyhaste.png"
+address = "Rüütli 11"
+location = [58.3813, 26.7219]
+icon = "pubcrawl"
+url = "https://www.facebook.com/karlovabarlova/"
+
+[[params.map.layer]]
+id = 17
+name = "Family Friendly Activities"
+title = "AHHAA"
+img = "images/map-icons/AHHAA.png"
+address = "Sadama 1"
+location = [58.37658, 26.73397]
+icon = "familyfirendly"
+url = "https://ahhaa.ee/en"
+
+[[params.map.layer]]
+id = 18
+name = "Family Friendly Activities"
+title = "Ice Age Center"
+img = "images/map-icons/jaaajakeskus.png"
+address = "Saadjärve 20, Äksi"
+location = [58.52596, 26.67609]
+icon = "familyfirendly"
+url = "https://jaaaeg.ee/en/"
+
+[[params.map.layer]]
+id = 19
+name = "Family Friendly Activities"
+title = "Upside Down House"
+img = "images/map-icons/tagurpidimaja.png"
+address = "Roosi 86"
+location = [58.39346, 26.74206]
+icon = "familyfirendly"
+url = "https://tagurpidimaja.ee/en"
+
+[[params.map.layer]]
+id = 20
+name = "Family Friendly Activities"
+title = "Estonian National Museum"
+img = "images/map-icons/erm.png"
+address = "Muuseumi tee 2"
+location = [58.39526, 26.74418]
+icon = "familyfirendly"
+url = "https://www.erm.ee/en"
+
+[[params.map.layer]]
+id = 21
+name = "Family Friendly Activities"
+title = "Sports and Olympic Museum"
+img = "images/map-icons/esom.png"
+address = "Rüütli 15"
+location = [58.38239, 26.72126]
+icon = "familyfirendly"
+url = "https://www.spordimuuseum.ee/en"
+
+[[params.map.layer]]
+id = 22
+name = "Family Friendly Activities"
+title = "Tartu Toy Museum"
+img = "images/map-icons/manguasjamuuseum.png"
+address = "Lutsu 8"
+location = [58.38221, 26.71817]
+icon = "familyfirendly"
+url = "https://www.mm.ee/en"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+############################# social site ########################
+# [[params.social]]
+# title = "facebook"
+# icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://twitter.com/foss4ge"
+
+[[params.social]]
+title = "mastodon"
+icon = "fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://fosstodon.org/@foss4geurope"
+
+[[params.social]]
+title = "github"
+icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
+
+[[params.social]]
+title = "linkedin"
+icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.linkedin.com/company/foss4g-europe"
+
+[[params.social]]
+title = "facebook"
+icon = "fa-facebook"
+link = "https://www.facebook.com/events/783688126985977"
+
+[[params.social]]
+title = "telegram"
+icon = "fa-telegram"
+link = "https://t.me/foss4g_europe"
+
+[[params.social]]
+title = "google-play"
+icon = "fa-brands fa-google-play"
+link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+
+[[params.social]]
+title = "f-droid"
+icon = "fa-brands fa-android"
+link = "https://f-droid.org/en/packages/net.gaast.giggity/"

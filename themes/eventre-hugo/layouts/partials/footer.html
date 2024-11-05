@@ -117,7 +117,7 @@
 {{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range site.Params.plugins.js}}
+{{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}" {{.attributes | safeHTMLAttr}}></script>
 {{ end }}
 

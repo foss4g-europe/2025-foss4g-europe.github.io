@@ -20,7 +20,7 @@ AUTHOR WEBSITE: https://themefisher.com
   <meta name="theme-name" content="eventre-hugo" />
 
   {{ "<!-- plugins -->" | safeHTML }}
-  {{ range site.Params.plugins.css }}
+  {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}" {{.attributes | safeHTMLAttr}}>
   {{ end }}
 

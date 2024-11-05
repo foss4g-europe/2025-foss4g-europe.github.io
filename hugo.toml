@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://2024.europe.foss4g.org/2025-foss4g-europe.github.io/"
+baseURL = "https://2025-foss4g-europe.github.io"
 title = "FOSS4G Europe 2025"
 theme = "eventre-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List

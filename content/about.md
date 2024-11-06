@@ -2,7 +2,7 @@
 title: "About FOSS4GE"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-11-06T20:41:24+02:00
-description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference. "
+description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference."
 draft: false
 layout: "about"
 image: "images/logo1.png"
@@ -28,7 +28,6 @@ image: "images/logo1.png"
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About FOSS4G Europe 2025
 The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the
 European branch event of the Open Source Geospatial Foundation (OSGeo) annual
 conference.
@@ -57,5 +56,10 @@ User Conference and has been known as FOSS4G since 2006. The European regional
 branch of the conference dates back to 2012 when the first FOSS4G Central and
 Eastern Europe (FOSS4G-CEE) was held in Prague, Czechia. Set to take place when
 the international conference is not in Europe, the European edition has since
-then visited Bucharest, Romania (2013); Bremen, Germany (2014);
-Como, Italy (2015); Paris, France (2017); Guimarães, Portugal (2018).
+then visited:
+- Bucharest, Romania (2013)
+- **{{< extlink href="https://europe.foss4g.org/2014" title="Bremen, Germany (2014)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://europe.foss4g.org/2015" title="Como, Italy (2015)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://europe.foss4g.org/2017" title="Paris, France (2017)" target="blank" rel="noopener noreferrer" >}}**
+- Guimarães, Portugal (2018)
+- **{{< extlink href="https://2024.europe.foss4ge.org/" title="Tartu, Estonia (2024)" target="blank" rel="noopener noreferrer" >}}**

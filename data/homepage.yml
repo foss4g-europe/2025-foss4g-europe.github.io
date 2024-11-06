@@ -270,9 +270,9 @@ call_to_action:
 ############### Sponsors ##################
 sponsors:
   enable : true
-  title : "Last years partners, supporters, and sponsors"
-  content : "FOSS4G Europe 2024 was made possible thanks to the invaluable help
-  from the following organizations"
+  # title : "Last years partners, supporters, and sponsors"
+  # content : "FOSS4G Europe 2024 was made possible thanks to the invaluable help
+  # from the following organizations"
   # button:
   #   enable : true
   #   label : "Become a sponsor"
@@ -285,116 +285,3 @@ sponsors:
       logo : "images/sponsors/OSGeo_logo.png"
       link : "https://www.osgeo.org/"
 
-
-  - name : "Organizing partners"
-    sponsor_item:
-    - name : "University of Tartu, Landscape Geoinformatics Lab"
-      logo : "images/sponsors/landscape_geo_logo.png"
-      link : "./partners/landscape-geoinformatics-lab/"
-    - name : "Estonian Geoinformatics Society"
-      logo : "images/sponsors/estgis-logo.png"
-      link : "./partners/estgis/"
-    - name : "European Commission"
-      logo : "images/sponsors/logo_european_commission.png"
-      link : "./partners/ec/"
-
-
-  - name : "Gold"
-    sponsor_item:
-    - name : "GeoCat bv"
-      logo : "images/sponsors/geocat.svg"
-      link : "./sponsors/gold/geocat/"
-    - name : "LAStools LiDAR Processing"
-      logo : "images/sponsors/rapidlasso_lastools_logo.svg"
-      link : "./sponsors/gold/rapidlasso-lastools/"
-    - name : "OPENGIS.ch"
-      logo : "images/sponsors/opengisch.png"
-      link : "./sponsors/gold/opengisch/"
-    - name : "Destination Earth"
-      logo : "images/sponsors/destination_earth.svg"
-      link : "./sponsors/gold/destination-earth/"
-
-
-  - name : "Silver"
-    sponsor_item:
-    - name : "SunGIS SIA"
-      logo : "images/sponsors/sungis.svg"
-      link : "./sponsors/silver/sungis/"
-    - name : "NextGIS"
-      logo : "images/sponsors/nextgis.svg"
-      link : "./sponsors/silver/nextgis/"
-    - name : "Gis3W"
-      logo : "images/sponsors/gis3w-logo.png"
-      link : "./sponsors/silver/gis3w/"
-    - name : "MapTiler"
-      logo : "images/sponsors/maptiler-logo-vertical.png"
-      link : "./sponsors/silver/maptiler/"
-    - name : "Mergin Maps"
-      logo : "images/sponsors/mergin-maps.png"
-      link : "./sponsors/silver/mergin-maps/"
-    - name : "EnviroSolutions"
-      logo : "images/sponsors/envirosolutions-resize.png"
-      link : "./sponsors/silver/envirosolutions/"
-    - name : "GeoSolutions"
-      logo : "images/sponsors/geosolutions.png"
-      link : "./sponsors/silver/geosolutions/"
-    - name : "Airbus"
-      logo : "images/sponsors/airbus_2.png"
-      link : "./sponsors/silver/airbus/"
-
-
-  - name : "Bronze"
-    sponsor_item:
-    - name : "Septima"
-      logo : "images/sponsors/septima-logo-1.png"
-      link : "./sponsors/bronze/septima/"
-    - name : "EOX"
-      logo : "images/sponsors/eox.png"
-      link : "./sponsors/bronze/eox/"
-    - name : "Geobeyond"
-      logo : "images/sponsors/geobeyond_2.png"
-      link : "./sponsors/bronze/geobeyond/"
-    - name : "Province of South-Holland"
-      logo : "images/sponsors/province_2.svg"
-      link : "./sponsors/bronze/province_south_holland/"
-
-
-  - name : "Supporter"
-    sponsor_item:
-    - name : "QGIS España"
-      logo : "images/sponsors/qgises-logo.png"
-      link : "./sponsors/supporter/qgises/"
-    - name : "camptocamp"
-      logo : "images/sponsors/camptocamp.svg"
-      link : "./sponsors/supporter/camptocamp/"
-    - name : "Geolynx"
-      logo : "images/sponsors/geolynx.png"
-      link : "./sponsors/supporter/geolynx/"
-    - name : "Positium"
-      logo : "images/sponsors/positium.svg"
-      link : "./sponsors/supporter/positium/"
-    - name : "FOSSGIS e.V"
-      logo : "images/sponsors/fossgis.svg"
-      link : "./sponsors/supporter/fossgis/"
-
-
-  - name : "Media partners"
-    sponsor_item:
-    - name : "ISPRS International Journal of Geo-Information"
-      logo : "images/partners/IJGI-B.png"
-      link : "./partners/ijgi-journal/"
-    - name : "GISWorld"
-      logo : "images/partners/gisworld.png"
-      link : "./partners/gisworld/"
-
-  - name : "Innovation Days partner"
-    sponsor_item:
-    - name : "Open Geospatial Consortium"
-      logo : "images/partners/OGC-Blue-Horizontal-Lockup-Trimmed.png"
-      link : "./partners/ogc/"
-
-  - name : "Mobility partner"
-    sponsor_item:
-    - name : "Tartu linn"
-      logo : "images/partners/tartu.svg"
-      link : "https://tartu.ee/en"

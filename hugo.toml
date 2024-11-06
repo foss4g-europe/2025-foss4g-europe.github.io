@@ -507,40 +507,45 @@ expire_days = 2
 # icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 # link = "#"
 
+#[[params.social]]
+#title = "twitter"
+#icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "https://twitter.com/foss4ge"
+
 [[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/foss4ge"
+title = "rss"
+icon = "fa-solid fa-rss" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "/index.xml"
 
 [[params.social]]
 title = "mastodon"
-icon = "fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://fosstodon.org/@foss4geurope"
 
 [[params.social]]
 title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 
 [[params.social]]
 title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.linkedin.com/company/foss4g-europe"
 
-[[params.social]]
-title = "facebook"
-icon = "fa-facebook"
-link = "https://www.facebook.com/events/783688126985977"
+#[[params.social]]
+#title = "facebook"
+#icon = "fa-facebook"
+#link = "https://www.facebook.com/events/783688126985977"
 
 [[params.social]]
 title = "telegram"
-icon = "fa-telegram"
+icon = "fa-brands fa-telegram"
 link = "https://t.me/foss4g_europe"
 
-[[params.social]]
-title = "google-play"
-icon = "fa-brands fa-google-play"
-link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+#[[params.social]]
+#title = "google-play"
+#icon = "fa-brands fa-google-play"
+#link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
 
 [[params.social]]
 title = "f-droid"

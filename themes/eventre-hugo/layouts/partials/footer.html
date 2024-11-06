@@ -85,7 +85,7 @@
 					<ul class="social-links-footer list-inline">
 						{{ range site.Params.social}}
 						<li class="list-inline-item">
-							<a href="{{ .link | safeURL }}"><i class="fa-brands {{.icon}}"></i></a>
+							<a href="{{ .link | safeURL }}"><i class="{{.icon}}"></i></a>
 						</li>
 						{{ end }}
 					</ul>

@@ -1,8 +1,8 @@
 ---
 title : "Frequently Asked Questions"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-description : ""
+date: 2024-11-06T20:41:24+02:00
+description : "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference."
 draft : false
 layout : "faq"
 ---
@@ -33,11 +33,11 @@ Yes, this event is for all kinds of people interested in sharing experiences abo
 {{</ faq >}}
 
 {{< faq "What activities will the conference have?" >}}
-The conference will have tracks full of talks, workshops, and community sprint activities. Social programme is very diverse from Geochicas event to Ice-Breaker and Social Bytes. 
+The conference will have tracks full of talks, workshops, and community sprint activities. Social programme is very diverse from Geochicas event to Ice-Breaker and Social Bytes.
 {{</ faq >}}
 
 {{< faq "I am presenting a workshop/talk, do I have to register?" >}}
-Yes, everybody has to register. 
+Yes, everybody has to register.
 {{</ faq >}}
 
 <!-- {{< faq "How do I sign up to attend the conference?" >}}

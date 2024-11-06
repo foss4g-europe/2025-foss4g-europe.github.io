@@ -5,7 +5,7 @@ banner:
   heading_2 : "Mostar, Bosnia-Herzegovina"
   content : "14-20 July 2025 Mostar"
   timer:
-    enable : false
+    enable : true
     year : 2025
     month : 7
     day : 14
@@ -284,4 +284,3 @@ sponsors:
     - name : "OSGeo"
       logo : "images/sponsors/OSGeo_logo.png"
       link : "https://www.osgeo.org/"
-

@@ -1,8 +1,8 @@
 ---
 title : "Code of Conduct"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-description : ""
+date: 2024-11-06T20:41:24+02:00
+description : "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference."
 draft : false
 layout : "single"
 ---
@@ -74,7 +74,7 @@ sexual attention.
 
 ##### Consequences of Unacceptable Behaviour
 Unacceptable behaviour from any community member, including sponsors and those
-with decision-making authority, will not be tolerated. Anyone asked to stop 
+with decision-making authority, will not be tolerated. Anyone asked to stop
 unacceptable behaviour is expected to comply immediately.
 
 If a community member engages in unacceptable behaviour, the community

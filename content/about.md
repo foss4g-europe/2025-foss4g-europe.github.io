@@ -1,8 +1,8 @@
 ---
 title: "About FOSS4GE"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference. "
+date: 2024-11-06T20:41:24+02:00
+description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference."
 draft: false
 layout: "about"
 image: "images/logo1.png"
@@ -28,7 +28,6 @@ image: "images/logo1.png"
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About FOSS4G Europe 2025
 The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the
 European branch event of the Open Source Geospatial Foundation (OSGeo) annual
 conference.
@@ -37,7 +36,7 @@ OSGeo is the largest and most important international organization
 that unites the community of developers, users, and advocates of free and
 open source in geospatial.
 
-The main focus of the organization is fostering the development, maintenance, 
+The main focus of the organization is fostering the development, maintenance,
 and use of free and open source software for geospatial, open standards, and
 open data. The democratizing nature of the field creates a basis for sharing
 geographic data, promotes cooperation between organizations and individuals,
@@ -47,7 +46,7 @@ transport, infrastructure planning, organizing rescue work in
 disaster areas, etc.
 
 FOSS4G is a community event organized by volunteers, with a focus on
-building a diverse and sustainable open community, sharing our own experiences, 
+building a diverse and sustainable open community, sharing our own experiences,
 and learning from others. Although it is software that brings us together, it's
 the deep care for the society and the environment that surrounds us, helping
 solve the World's problems one bit at a time, that connects us.
@@ -57,7 +56,10 @@ User Conference and has been known as FOSS4G since 2006. The European regional
 branch of the conference dates back to 2012 when the first FOSS4G Central and
 Eastern Europe (FOSS4G-CEE) was held in Prague, Czechia. Set to take place when
 the international conference is not in Europe, the European edition has since
-then visited Bucharest, Romania (2013); Bremen, Germany (2014);
-Como, Italy (2015); Paris, France (2017); Guimarães, Portugal (2018).
-
-
+then visited:
+- Bucharest, Romania (2013)
+- **{{< extlink href="https://europe.foss4g.org/2014" title="Bremen, Germany (2014)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://europe.foss4g.org/2015" title="Como, Italy (2015)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://europe.foss4g.org/2017" title="Paris, France (2017)" target="blank" rel="noopener noreferrer" >}}**
+- Guimarães, Portugal (2018)
+- **{{< extlink href="https://2024.europe.foss4ge.org/" title="Tartu, Estonia (2024)" target="blank" rel="noopener noreferrer" >}}**

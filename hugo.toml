@@ -183,7 +183,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "FOSS4GE 2025 website contents are made available under [CC0 1.0 Universal](https://github.com/foss4g-europe/2025-foss4g-europe.github.io/blob/main/LICENSE)<br><br>Hugo theme designed by [Themefisher](https://themefisher.com/) & developed by [Gethugothemes](https://gethugothemes.com/)"
 
 # Preloader
 [params.preloader]
@@ -523,24 +523,24 @@ icon = "fa-brands fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.
 link = "https://fosstodon.org/@foss4geurope"
 
 [[params.social]]
-title = "github"
-icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
+title = "telegram"
+icon = "fa-brands fa-telegram"
+link = "https://t.me/foss4g_europe"
 
 [[params.social]]
 title = "linkedin"
 icon = "fa-brands fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.linkedin.com/company/foss4g-europe"
 
+[[params.social]]
+title = "github"
+icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://github.com/foss4g-europe/2025-foss4g-europe.github.io"
+
 #[[params.social]]
 #title = "facebook"
 #icon = "fa-facebook"
 #link = "https://www.facebook.com/events/783688126985977"
-
-[[params.social]]
-title = "telegram"
-icon = "fa-brands fa-telegram"
-link = "https://t.me/foss4g_europe"
 
 #[[params.social]]
 #title = "google-play"

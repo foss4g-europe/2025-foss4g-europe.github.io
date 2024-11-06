@@ -1,7 +1,7 @@
 ---
 title: "About FOSS4GE"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-11-06T22:41:24+03:00
+date: 2024-11-06T20:41:24+02:00
 description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference. "
 draft: false
 layout: "about"

@@ -21,7 +21,7 @@
               {{ .Content }}
             </div>
             {{ if in "social" .Params }}
-            {{ if (gt (len .Params.social) 0) }}
+            {{ if (gt (.Params.social | len) 0) }}
             <div class="social-profiles">
               <h5>Social Profiles</h5>
               <ul class="list-inline social-list">

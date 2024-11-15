@@ -16,7 +16,7 @@
 						<img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid">
 						<div class="primary-overlay"></div>
 						<div class="socials">
-							{{ if in "social" .Params }}
+							{{ if .Params.social }}
 	            {{ if (gt (.Params.social | len) 0) }}
 							<ul class="list-inline">
                 {{ range first 4 .Params.social }}

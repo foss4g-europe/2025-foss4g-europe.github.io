@@ -20,7 +20,7 @@
             <div class="details">
               {{ .Content }}
             </div>
-            {{ if in "social" .Params }}
+            {{ if .Params.social }}
             {{ if (gt (.Params.social | len) 0) }}
             <div class="social-profiles">
               <h5>Social Profiles</h5>

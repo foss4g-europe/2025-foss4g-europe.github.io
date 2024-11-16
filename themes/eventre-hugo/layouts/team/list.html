@@ -2,12 +2,6 @@
 
 <section class="section speakers white">
 	<div class="container">
-		<center>
-			<h2>Powered by</h2>
-			<a href="https://osgeo.org" class="partner-logo">
-			  <img src="https://wiki.osgeo.org/w/images/8/8b/Osgeo-logo.png" alttext="OSGeo logo" height="90">
-			</a>
-		</center>
 		<div>
 			<center>
 			{{ $fileDir := .File.Dir }}
@@ -61,5 +55,7 @@
 		</div>
 	</div>
 </section>
+
+{{ partial "orga.html" $ }}
 
 {{ end }}

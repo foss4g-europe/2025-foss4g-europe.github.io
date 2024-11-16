@@ -179,6 +179,12 @@ weight = 3
   url = "call-for-proposals/academic-program/"
   weight = 3
 
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Map Gallery Submissions"
+  url = "call-for-proposals/map-gallery-submissions/"
+  weight = 4
+
 
 #  [[menu.main]]
 #  parent = "About"

@@ -196,7 +196,7 @@ logo = "images/logo1.png"
 logo_footer = "images/logo1.png"
 logo_width = "100px"
 # Meta data
-description = "The FOSS4G Europe 2024 conference is taking place 1-7 July in the beautiful city of Tartu, Estonia."
+description = "The FOSS4G Europe 2025 conference is taking place 14-20 July in the beautiful city of Mostar, Bosnia-Herzegovina."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

@@ -102,6 +102,18 @@ attributes = ""
 link = "plugins/google-map/gmap.js"
 attributes = ""
 
+[[params.teams]]
+team = "loc"
+link = "loc/"
+title = "Local organizing committee"
+[[params.teams]]
+team = "program-committee"
+link = "program-committee/"
+title = "General program committee"
+[[params.teams]]
+team = "scientific-committee"
+link = "scientific-committee/"
+title = "Scientific committee"
 
 ####################### navigation ##########################
 
@@ -111,36 +123,66 @@ name = "Home"
 url = "/"
 weight = 1
 
+
+## main menu item: About
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 2
 
-# [[menu.main]]
-# name = "Call for papers"
-# url = "call-for-papers/"
-# weight = 3
-# hasChildren = true
-
-#  [[menu.main]]
-#  weight = 1
-#  parent = "Call for papers"
-#  name = "Map Gallery Submission"
-#  url = "map-gallery-submission"
-
-
-
+  [[menu.main]]
+  parent = "About"
+  name = "Important dates"
+  url = "about/important-dates/"
+  weight = 2
 
   [[menu.main]]
   parent = "About"
   name = "FAQ"
-  url = "faq/"
+  url = "about/faq/"
   weight = 3
 
   [[menu.main]]
   parent = "About"
   name = "Code of Conduct"
-  url = "coc/"
+  url = "about/coc/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "About"
+  name = "Organizing committee"
+  url = "loc/"
+  weight = 5
+
+
+## main menu item: Call for proposals
+[[menu.main]]
+name = "Call for proposals"
+url = "call-for-proposals/"
+weight = 3
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Workshops"
+  url = "call-for-proposals/workshops/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "General Program"
+  url = "call-for-proposals/general-program/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Academic Program"
+  url = "call-for-proposals/academic-program/"
+  weight = 3
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Map Gallery Submissions"
+  url = "call-for-proposals/map-gallery-submissions/"
   weight = 4
 
 
@@ -165,6 +207,8 @@ weight = 2
 #  name = "Testimonial"
 #  url = "testimonial/"
 
+
+## main menu item: Contact
 [[menu.main]]
 name = "Contact"
 url = "contact/"
@@ -178,7 +222,7 @@ logo = "images/logo1.png"
 logo_footer = "images/logo1.png"
 logo_width = "100px"
 # Meta data
-description = "The FOSS4G Europe 2024 conference is taking place 1-7 July in the beautiful city of Tartu, Estonia."
+description = "The FOSS4G Europe 2025 conference is taking place 14-20 July in the beautiful city of Mostar, Bosnia-Herzegovina."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

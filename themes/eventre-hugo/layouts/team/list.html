@@ -2,6 +2,17 @@
 
 <section class="section speakers white">
 	<div class="container">
+		<div>
+			<center>
+			{{ $fileDir := .File.Dir }}
+			{{ range .Site.Params.teams }}
+			  <a href="../{{ .link | safeURL }}"
+			    class="btn btn-primary btn-lg btn-pad{{ if eq $fileDir .link }} disabled{{ end }}">
+			    <span>{{ .title }}</span>
+			  </a>
+      {{ end }}
+			</center>
+		</div>
 		<div class="row">
 			<div class="col-12 section-title">
         {{.Content}}
@@ -41,5 +52,7 @@
 		</div>
 	</div>
 </section>
+
+{{ partial "orga.html" $ }}
 
 {{ end }}

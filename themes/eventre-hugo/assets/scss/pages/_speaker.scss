@@ -8,6 +8,8 @@
 			padding: 6px;
 			img{
 				width: 100%;
+				border-radius: 50%;
+				border: 10px solid transparent;
 			}
 			@include tablet {
 				margin-bottom: 30px;
@@ -123,6 +125,15 @@
 				}
 				margin-bottom: 20px;
 			}
+		}
+	}
+}
+
+.speaker-item{
+	.image{
+		img{
+			border-radius: 50%;
+			border: 10px solid transparent;
 		}
 	}
 }

@@ -261,6 +261,12 @@ button {
   background-position: center center;
 }
 
+.bg-orga {
+  background: url(../images/background/bg-orga.jpg) fixed no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
 .bg-subscribe {
   background: url(../images/background/newsletter-bg.jpg) fixed no-repeat;
   background-size: cover;
@@ -505,5 +511,14 @@ select.form-control:not([size]):not([multiple]) {
         color: $light;
       }
     }
+  }
+}
+
+.partner-logo img {
+  padding: 10px 20px 10px 20px;
+  border: 1px solid #fff;
+
+  &:hover{
+    border-color: $primary-color;
   }
 }

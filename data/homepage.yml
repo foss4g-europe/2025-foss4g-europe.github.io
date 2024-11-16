@@ -36,15 +36,12 @@ orga:
 
   - name : "Organizing partners"
     orga_item:
-    - name : "University of Tartu, Landscape Geoinformatics Lab"
-      logo : "images/sponsors/landscape_geo_logo.png"
-      link : "./partners/landscape-geoinformatics-lab/"
-    - name : "Estonian Geoinformatics Society"
-      logo : "images/sponsors/estgis-logo.png"
-      link : "./partners/estgis/"
-    - name : "European Commission"
-      logo : "images/sponsors/logo_european_commission.png"
-      link : "./partners/ec/"
+#    - name : "University of Tartu, Landscape Geoinformatics Lab"
+#      logo : "images/sponsors/landscape_geo_logo.png"
+#      link : "./partners/landscape-geoinformatics-lab/"
+#    - name : "Estonian Geoinformatics Society"
+#      logo : "images/sponsors/estgis-logo.png"
+#      link : "./partners/estgis/"
 
 ################# About ###################
 about:

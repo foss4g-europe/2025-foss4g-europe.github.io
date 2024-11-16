@@ -123,23 +123,12 @@ name = "Home"
 url = "/"
 weight = 1
 
+
+## main menu item: About
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 2
-
-# [[menu.main]]
-# name = "Call for papers"
-# url = "call-for-papers/"
-# weight = 3
-# hasChildren = true
-
-#  [[menu.main]]
-#  weight = 1
-#  parent = "Call for papers"
-#  name = "Map Gallery Submission"
-#  url = "map-gallery-submission"
-
 
   [[menu.main]]
   parent = "About"
@@ -166,6 +155,7 @@ weight = 2
   weight = 5
 
 
+## main menu item: Call for proposals
 [[menu.main]]
 name = "Call for proposals"
 url = "call-for-proposals/"
@@ -211,6 +201,8 @@ weight = 3
 #  name = "Testimonial"
 #  url = "testimonial/"
 
+
+## main menu item: Contact
 [[menu.main]]
 name = "Contact"
 url = "contact/"

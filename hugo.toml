@@ -146,13 +146,13 @@ weight = 2
   [[menu.main]]
   parent = "About"
   name = "FAQ"
-  url = "faq/"
+  url = "about/faq/"
   weight = 3
 
   [[menu.main]]
   parent = "About"
   name = "Code of Conduct"
-  url = "coc/"
+  url = "about/coc/"
   weight = 4
 
   [[menu.main]]

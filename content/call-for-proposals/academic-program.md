@@ -12,3 +12,7 @@ layout: "single"
 ---
 
 TBD
+
+**Note!** Call for proposals for academic program for FOSS4G
+Europe 2025 will be opened soon. We will announce them in due course on our
+social media channels and some select mailing lists :)

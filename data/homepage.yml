@@ -22,26 +22,6 @@ banner:
   #   label : "Photos"
   #   link : "https://drive.google.com/drive/folders/17Wa15vC-Rth_z0IVupfl3FT8C3S1qC78"
 
-################# Orga ####################
-orga:
-  enable: true
-  orga_group:
-
-  - name : "Powered by"
-    orga_item:
-    - name : "OSGeo"
-      logo : "images/sponsors/OSGeo_logo.png"
-      link : "https://www.osgeo.org/"
-
-
-  - name : "Organizing partners"
-    orga_item:
-#    - name : "University of Tartu, Landscape Geoinformatics Lab"
-#      logo : "images/sponsors/landscape_geo_logo.png"
-#      link : "./partners/landscape-geoinformatics-lab/"
-#    - name : "Estonian Geoinformatics Society"
-#      logo : "images/sponsors/estgis-logo.png"
-#      link : "./partners/estgis/"
 
 ################# About ###################
 about:
@@ -287,9 +267,31 @@ call_to_action:
     link : "pricing/"
 
 
+################# Orga ####################
+orga:
+  enable: true
+  orga_group:
+
+  - name : "Powered by"
+    orga_item:
+    - name : "OSGeo"
+      logo : "images/sponsors/OSGeo_logo.png"
+      link : "https://www.osgeo.org/"
+
+
+  - name : "Organizing partners"
+    orga_item:
+#    - name : ""
+#      logo : ""
+#      link : ""
+#    - name : ""
+#      logo : ""
+#      link : ""
+
+
 ############### Sponsors ##################
 sponsors:
-  enable : true
+  enable : false
   # title : "Last years partners, supporters, and sponsors"
   # content : "FOSS4G Europe 2024 was made possible thanks to the invaluable help
   # from the following organizations"
@@ -299,8 +301,15 @@ sponsors:
   #   link : "./call-for-sponsors/"
   sponsor_group:
 
-  - name : "Powered by"
+  - name : "Gold"
     sponsor_item:
-    - name : "OSGeo"
-      logo : "images/sponsors/OSGeo_logo.png"
-      link : "https://www.osgeo.org/"
+#    - name : ""
+#      logo : ""
+#      link : ""
+
+
+  - name : "Silver"
+    sponsor_item:
+#    - name : ""
+#      logo : ""
+#      link : ""

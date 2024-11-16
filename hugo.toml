@@ -166,6 +166,30 @@ weight = 2
   weight = 5
 
 
+[[menu.main]]
+name = "Call for proposals"
+url = "call-for-proposals/"
+weight = 3
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Workshops"
+  url = "call-for-proposals/workshops/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "General Program"
+  url = "call-for-proposals/general-program/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Academic Program"
+  url = "call-for-proposals/academic-program/"
+  weight = 3
+
+
 #  [[menu.main]]
 #  parent = "About"
 #  name = "GDPR"

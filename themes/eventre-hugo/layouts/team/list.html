@@ -6,13 +6,11 @@
 			<center>
 			{{ $fileDir := .File.Dir }}
 			{{ range .Site.Params.teams }}
-			{{ if ne $fileDir .link }}
 			  <a href="../{{ .link | safeURL }}"
-			    class="btn btn-primary btn-lg"
+			    class="btn btn-primary btn-lg{{ if eq $fileDir .link }} disabled{{end}}"
 			    style="padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
 			    <span>{{ .title }}</span>
 			  </a>
-			{{ end }}
       {{ end }}
 			</center>
 		</div>

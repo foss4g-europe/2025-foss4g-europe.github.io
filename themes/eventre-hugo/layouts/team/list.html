@@ -8,6 +8,20 @@
 			  <img src="https://wiki.osgeo.org/w/images/8/8b/Osgeo-logo.png" alttext="OSGeo logo" height="90">
 			</a>
 		</center>
+		<div>
+			<center>
+			{{ $fileDir := .File.Dir }}
+			{{ range .Site.Params.teams }}
+			{{ if ne $fileDir .link }}
+			  <a href="../{{ .link | safeURL }}"
+			    class="btn btn-primary btn-lg"
+			    style="padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
+			    <span>{{ .title }}</span>
+			  </a>
+			{{ end }}
+      {{ end }}
+			</center>
+		</div>
 		<div class="row">
 			<div class="col-12 section-title">
         {{.Content}}

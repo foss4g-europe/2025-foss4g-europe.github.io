@@ -102,6 +102,18 @@ attributes = ""
 link = "plugins/google-map/gmap.js"
 attributes = ""
 
+[[params.teams]]
+team = "loc"
+link = "loc/"
+title = "Local organizing committee"
+[[params.teams]]
+team = "program-committee"
+link = "program-committee/"
+title = "General program committee"
+[[params.teams]]
+team = "scientific-committee"
+link = "scientific-committee/"
+title = "Scientific committee"
 
 ####################### navigation ##########################
 
@@ -142,6 +154,12 @@ weight = 2
   name = "Code of Conduct"
   url = "coc/"
   weight = 4
+
+  [[menu.main]]
+  parent = "About"
+  name = "Organizing committee"
+  url = "loc/"
+  weight = 5
 
 
 #  [[menu.main]]

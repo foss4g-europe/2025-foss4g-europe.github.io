@@ -8,8 +8,6 @@
 			padding: 6px;
 			img{
 				width: 100%;
-				border-radius: 50%;
-				border: 10px solid transparent;
 			}
 			@include tablet {
 				margin-bottom: 30px;
@@ -129,14 +127,6 @@
 	}
 }
 
-.speaker-item{
-	.image{
-		img{
-			border-radius: 50%;
-			border: 10px solid transparent;
-		}
-	}
-}
 
 .speakers-full-width{
 	overflow: hidden;
@@ -224,5 +214,13 @@
 				font-family: $icon-font;
 			}
 		}
+	}
+}
+
+
+.speaker-image-round{
+	img{
+		border-radius: 50%;
+		border: 10px solid transparent;
 	}
 }

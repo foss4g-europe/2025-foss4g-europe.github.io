@@ -292,13 +292,13 @@ orga:
 ############### Sponsors ##################
 sponsors:
   enable : false
-  # title : "Last years partners, supporters, and sponsors"
-  # content : "FOSS4G Europe 2024 was made possible thanks to the invaluable help
-  # from the following organizations"
-  # button:
-  #   enable : true
-  #   label : "Become a sponsor"
-  #   link : "./call-for-sponsors/"
+  title : "Our partners, supporters, and sponsors"
+  content : "FOSS4G Europe 2025 is made possible thanks to the invaluable help
+   from the following organizations"
+#  button:
+#     enable : false
+#     label : "Become a sponsor"
+#     link : "./call-for-sponsors/"
   sponsor_group:
 
   - name : "Gold"
@@ -313,3 +313,6 @@ sponsors:
 #    - name : ""
 #      logo : ""
 #      link : ""
+
+  - name : "Some level name"
+    sponsor_item:

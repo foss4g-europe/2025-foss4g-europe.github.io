@@ -5,8 +5,9 @@ date: 2024-11-21T14:40:24+02:00
 designation: "Organizing committee"
 image: "./images/team/tkardi.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
+includepage: ""
 social:
 #- name: "facebook"
 #  icon: "fa-brands fa-facebook"
@@ -31,4 +32,7 @@ social:
 #  link: "#"
 ---
 
-Tõnis is a freelance GIS/IT consultant from Tartu, Estonia. Integrating spatial data and spatial data usage into existing and newborn information systems alike is his main focal point of work. And of course, advocating for the adoption of FOSS for the purpose along the way. He is an OSGeo Charter Member since 2017.
+Tõnis is a freelance GIS/IT consultant from Tartu, Estonia. Integrating spatial
+data and spatial data usage into existing and newborn information systems alike
+is his main focal point of work. And of course, advocating for the adoption of
+FOSS for the purpose along the way. He is an OSGeo Charter Member since 2017.

@@ -1,11 +1,11 @@
 ---
 title : "Marko Puljic"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-11-01T15:40:24+02:00
+date: 2024-11-23T15:02:24+02:00
 designation: "Conference chair"
 image: "./images/team/marko.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 social:
 - name: "facebook"

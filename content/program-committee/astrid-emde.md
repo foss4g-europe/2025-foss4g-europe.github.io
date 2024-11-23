@@ -5,7 +5,7 @@ date: 2020-11-01T15:40:24+02:00
 designation: "Program Committee co-chair"
 image: "./images/team/astrid.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 social:
 #- name: "facebook"

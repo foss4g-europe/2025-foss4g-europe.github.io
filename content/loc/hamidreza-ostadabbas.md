@@ -2,10 +2,10 @@
 title : "Besfort Guri"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-11-21T14:03:24+02:00
-designation: "Program Committee co-chair"
+designation: "Organizing committee"
 image: "./images/team/hamidreza.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 social:
 - name: "facebook"

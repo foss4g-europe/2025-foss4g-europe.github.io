@@ -5,8 +5,9 @@ date: 2024-11-21T14:03:24+02:00
 designation: "Program Committee co-chair"
 image: "./images/team/besfort.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
+includepage: "loc/"
 social:
 #- name: "facebook"
 #  icon: "fa-brands fa-facebook"

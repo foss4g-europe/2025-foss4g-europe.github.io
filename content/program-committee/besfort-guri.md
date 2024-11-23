@@ -31,8 +31,8 @@ social:
 #  link: "#"
 ---
 
-Besfort Guri is a FLOSS hacktivist,board member at Free Libre Open Source
+Besfort Guri is a FLOSS hacktivist, board member at Free Libre Open Source
 Software Kosova. He is also GIS Developer at IRuSP Project in Kosovo, he has
 worked as software developer at Adaptivit and Logistics Plus, also as
-Geodatabase administrator at GIS D&A Center Kosovo. He is study computer
-science and engineering at master degree at  University of Bussines Technology.
+Geodatabase administrator at GIS D&A Center Kosovo. He has studied computer
+science and engineering at master degree at University of Bussines Technology.

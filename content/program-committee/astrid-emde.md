@@ -2,7 +2,7 @@
 title : "Astrid Emde"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-11-23T14:57:24+02:00
-designation: "Organizing committee"
+designation: "Program Committee"
 image: "./images/team/astrid.jpg"
 draft : false
 type: "team"

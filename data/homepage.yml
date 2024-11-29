@@ -292,9 +292,12 @@ orga:
     - name : "Ecoplan d.o.o."
       logo : "images/sponsors/ecoplan-logo-transparent.png"
       link : "https://ecoplan.ba/"
-#    - name : ""
-#      logo : ""
-#      link : ""
+    - name : "University of Mostar"
+      logo : "images/sponsors/university-of-mostar.png"
+      link : "https://www.sum.ba/en"
+    - name : "City of Mostar"
+      logo : "images/sponsors/mostar_logo-w.svg"
+      link : "https://mostar.ba/"
 
 
 ############### Sponsors ##################

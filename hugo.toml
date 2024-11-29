@@ -582,17 +582,17 @@ title = "github"
 icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://github.com/foss4g-europe/2025-foss4g-europe.github.io"
 
-#[[params.social]]
-#title = "facebook"
-#icon = "fa-facebook"
-#link = "https://www.facebook.com/events/783688126985977"
+[[params.social]]
+title = "facebook"
+icon = "fa-brands fa-facebook"
+link = "https://www.facebook.com/foss4ge/"
 
 #[[params.social]]
 #title = "google-play"
 #icon = "fa-brands fa-google-play"
 #link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
 
-[[params.social]]
-title = "f-droid"
-icon = "fa-brands fa-android"
-link = "https://f-droid.org/en/packages/net.gaast.giggity/"
+#[[params.social]]
+#title = "f-droid"
+#icon = "fa-brands fa-android"
+#link = "https://f-droid.org/en/packages/net.gaast.giggity/"

@@ -289,9 +289,9 @@ orga:
 
   - name : "Organizing partners"
     orga_item:
-#    - name : ""
-#      logo : ""
-#      link : ""
+    - name : "Ecoplan d.o.o."
+      logo : "images/sponsors/ecoplan-logo-transparent.png"
+      link : "https://ecoplan.ba/"
 #    - name : ""
 #      logo : ""
 #      link : ""

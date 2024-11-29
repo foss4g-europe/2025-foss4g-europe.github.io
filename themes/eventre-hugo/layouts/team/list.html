@@ -18,8 +18,10 @@
         {{.Content}}
 			</div>
 		</div>
+    {{ $pages := where (where site.RegularPages "Type" "team") "Params.includepage" $fileDir }}
+    {{ $pages := $pages | append .Data.Pages }}
 		<div class="row">
-      {{ range .Data.Pages }}
+      {{ range $pages }}
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<!-- Speaker 1 -->
 				<div class="speaker-item">

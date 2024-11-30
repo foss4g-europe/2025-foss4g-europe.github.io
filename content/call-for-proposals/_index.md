@@ -13,12 +13,12 @@ layout: "single"
 ## Workshops
 The CfP will be open from **2 December 2024** until **19 January 2025**
 
-Proceed to [**the workshops call-for-proposals**](/call-for-proposals/workshops/).
+Proceed to the [**workshops call-for-proposals**](/call-for-proposals/workshops/).
 
 ## General Program talks
 The CfP will be open from **2 December 2024** until **16 February 2025**.
 
-Proceed to [**the general program talks call-for-proposals**](/call-for-proposals/general-program/).
+Proceed to the [**general program talks call-for-proposals**](/call-for-proposals/general-program/).
 
 ## Academic Program
-**_Note!_** Information on the Academic CfP will be published soon.
+**_Note!_** More information on the Academic CfP will be published soon.

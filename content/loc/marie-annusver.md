@@ -3,31 +3,17 @@ title : "Marie Annusver"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-11-29T09:29:24+02:00
 designation: "Organizing committee"
-image: "./images/team/generic.jpg"
+image: "./images/team/marie-annusver.png"
 draft : false
 type: "team"
 layout: "single"
 includepage: ""
 social:
-#- name: "facebook"
-#  icon: "fa-brands fa-facebook"
-#  link: "#"
-#- name: "mastodon"
-#  icon: "fa-brands fa-mastodon"
-#  link: "https://mastodon.social/@tkardi"
-#- name: "homepage"
-#  icon: "fa-solid fa-house"
-#  link: "https://tkardi.ee"
-#- name: "github"
-#  icon: "fa-brands fa-github"
-#  link: "https://github.com/tkardi"
-#- name: "linkedin"
-#  icon: "fa-brands fa-linkedin"
-#  link: "#"
-#- name: "instagram"
-#  icon: "fa-brands fa-instagram"
-#  link: "#"
-#- name: "skype"
-#  icon: "fa-brands fa-skype"
-#  link: "#"
+- name: "linkedin"
+  icon: "fa-brands fa-linkedin"
+  link: "https://www.linkedin.com/in/marie-annusver-614b082b4/"
+
 ---
+I am a master's student at the University of Tartu, majoring in Geography with
+a focus on geoinformatics and cartography. I am very interested in using QGIS
+for spatial analysis and map creation.

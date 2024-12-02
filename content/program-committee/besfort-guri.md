@@ -32,8 +32,9 @@ social:
 #  link: "#"
 ---
 
-Besfort Guri is a FLOSS hacktivist, board member at Free Libre Open Source
-Software Kosova. He is also GIS Developer at IRuSP Project in Kosovo, he has
-worked as software developer at Adaptivit and Logistics Plus, also as
-Geodatabase administrator at GIS D&A Center Kosovo. He has studied computer
-science and engineering at master degree at University of Bussines Technology.
+Besfort Guri co-leads Kosovo’s open-source and mapping community. As FLOSSK’s
+President, he advocates for open-source values at home. Engaged with the
+OpenStreetMap Foundation and OSGeo, he represents them in Kosovo. Besfort
+co-leads Open Spatial Kosovo and chaired FOSS4G 2023. Through OpS-IN,
+his Kosovo business, he develops open-source GIS tools, demonstrating his
+commitment to local and global tech progress.

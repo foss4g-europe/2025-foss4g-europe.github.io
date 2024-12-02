@@ -41,7 +41,7 @@ channels and update timings here.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-workshops/cfp"
     title="Submit a proposal for workshop"       
-    class="btn btn-primary btn-lg disabled"
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -100,7 +100,7 @@ to get the best FOSS4G experience.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-workshops/cfp"
     title="Submit a proposal for workshop"       
-    class="btn btn-primary btn-lg disabled"
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
 </p>

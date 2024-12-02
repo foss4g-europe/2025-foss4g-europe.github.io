@@ -42,7 +42,7 @@ channels and update timings here.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/cfp"
     title="Submit a proposal for general program"       
-    class="btn btn-primary btn-lg disabled"
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -114,8 +114,9 @@ maybe you are building something pan-European on top of INSPIRE? Updates on
 the European Union Location Framework ( EULF) Blueprint?
 
 #### FOSS4G “Made in Europe”
-A special track to investigate and introduce the many Free and Open Source
-software tools, data capture and collection and sharing projects carried out
+A special track co-organized with the European Commission to investigate and
+introduce the many Free and Open Source software tools, data capture and
+collection and sharing projects carried out
 at the European Commission, European institutions or funded by them.
 
 #### Open community
@@ -252,7 +253,7 @@ consider the proposal carefully.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/cfp"
     title="Submit a proposal for general program"       
-    class="btn btn-primary btn-lg disabled"
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
 </p>

@@ -3,7 +3,7 @@ title : "Stefanie Lumnitz"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-11-29T09:29:24+02:00
 designation: "Program Committee co-chair"
-image: "./images/team/generic.jpg"
+image: "./images/team/stefanie-lumnitz.png"
 draft : false
 type: "team"
 layout: "single"

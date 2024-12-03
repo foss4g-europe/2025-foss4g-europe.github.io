@@ -562,6 +562,12 @@ title = "rss"
 icon = "fa-solid fa-rss" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "/index.xml"
 
+
+[[params.social]]
+title = "discourse"
+icon = "fa-brands fa-discourse" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://discourse.osgeo.org/t/foss4g-europe-2025/110423/3"
+
 [[params.social]]
 title = "mastodon"
 icon = "fa-brands fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/

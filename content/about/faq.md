@@ -7,37 +7,74 @@ draft : false
 layout : "faq"
 ---
 
-
 {{< faq "When and where will the conference take place?" >}}
-The conference will take place from 14 - 20 July 2025 in Mostar, Bosnia-Herzegovina.  
+The conference will take place from 14 - 20 July 2025 in Mostar, Bosnia-Herzegovina.  Venue place of the conference
+ is [University of Mostar](https://www.openstreetmap.org/#map=18/43.345151/17.796972)
 {{</ faq >}}
 
-{{< faq "If the conference is in Bosnia-Herzegovina, does it mean my presentation/workshop needs to be in Bosnian?" >}}
-No. The working language of the conference is English.
+{{< faq "If the conference is in Bosnia and Herzegovina, does it mean my presentation/workshop needs to be in Bosnian?" >}}
+No, the official language of the conference is English. All presentations and workshops shall be conducted in English to 
+accommodate our international audience.
 {{</ faq >}}
 
 {{< faq "Will the presentations be public after the conference?" >}}
-Yes. Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, the recorded talks will be published on our YouTube channel - https://www.youtube.com/@FOSS4G  
+Yes, all presentations will be recorded and made publicly available after the conference. Our main goal is to foster FOSS4G, 
+and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, 
+the recorded talks will be published on our [YouTube channel](https://www.youtube.com/@FOSS4G)  
 {{</ faq >}}
 
 {{< faq "Have you considered a hybrid online-face to face event?" >}}
-FOSS4GE 2025 will be an in-person event.  
+No,  FOSS4G Europe 2025 is organized as an in-person event. However, 
+to accommodate a wider audience, we plan to provide online streaming of the conference sessions. 
+This approach allows geospatial enthusiasts who cannot attend in person to follow the talks virtually.  
 {{</ faq >}}
 
 {{< faq "I am not dedicated to geoinformatics, can I attend the conference?" >}}
-Yes, the conference is open to any public interested in geoinformatics, free software, maps, and communities.  
+Absolutely. The conference welcomes anyone interested in geospatial technologies and open-source software. 
+Whether you're a professional from another field, a student, or simply curious about geospatial innovations, your participation is encouraged.
+{{</ faq >}}
+
+{{< faq "I want to get involved in the conference! How do I do that?" >}}
+Are you ready to shine? Whether you're a social media wizard, a team player who can make magic happen, 
+a tech genius who speaks the language of code, or a creative soul with an eye for capturing moments through photography—we need YOU! 
+FOSS4GE is more than just a conference; it’s a movement, a community, and a chance to leave your mark. 
+
+Join us, make connections, share your talents, and be part of an unforgettable event. Step up to the challenge 
+and help us shape the future of geospatial innovation! [Reach out to us today](mailto:info-europe@foss4g.org)—we can’t wait to hear from you!
 {{</ faq >}}
 
 {{< faq "If I don’t develop or write code, is this conference for me, too?" >}}
-Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geoinformatics software, people who make decisions, researchers, students, and anyone who wants to learn, share and meet like-minded people.  
+Yes, the conference is designed for a diverse audience, including users, educators, and decision-makers. You don't need to be a developer or
+ coder to benefit from the sessions and networking opportunities. The event offers insights into the application and impact of geospatial technologies
+ across various sectors.  
 {{</ faq >}}
 
 {{< faq "What activities will the conference have?" >}}
-The conference will have tracks full of talks, workshops, and community sprint activities. Social programme is very diverse from Geochicas event to Ice-Breaker and Social Bytes.
+The conference will feature a variety of activities, including:
+
+- **Workshops:** Hands-on sessions led by experts to enhance your skills in open-source geospatial technologies.
+- **Presentations:** Talks and lectures covering the latest advancements and applications in the geospatial field.
+- **Networking Events:** Opportunities to connect with professionals from around the world, such as GeoBiz Connect and GeoGals Night.
+- **Social Activities:** Informal gatherings like Meet & Mingle (M&M) and GeoExchange to foster community engagement.
 {{</ faq >}}
 
-{{< faq "I am presenting a workshop/talk, do I have to register?" >}}
-Yes, everybody has to register.
+{{< faq "Do I need a visa to attend the conference?" >}}
+Whether you need a visa to attend the conference in Bosnia and Herzegovina depends on your nationality. Bosnia and Herzegovina 
+has a visa-free regime with many countries, but for certain countries, a visa is required.
+
+To ensure you have the correct and up-to-date information regarding visa requirements, please visit the official website 
+of the Ministry of Foreign Affairs of Bosnia and Herzegovina: <a href="https://mvp.gov.ba/konzularne_informacije/vize/Default.aspx?template_id=16" target="_blank">Visa Information</a>.
+
+If you require additional assistance or documentation for your visa application, please contact the [conference organizers](mailto:info-europe@foss4g.org).
+{{</ faq >}}
+
+
+{{< faq "I am talker on the conference, do I have to register?" >}}
+Yes, all presenters are required to register for the conference. This policy ensures that all participants, including speakers, have access to the full range of conference activities and resources. Please note that there is no discount for presenters.
+{{</ faq >}}
+
+{{< faq "I'm holding the workshop? Do I have to register?" >}}
+Yes, everebody is required to register for the conference. Each workshop is entitled to two complimentary tickets for its presenters. However, if presenters choose to purchase their tickets, it would greatly support the conference's organization and sustainability. Your contribution is highly appreciated.
 {{</ faq >}}
 
 <!-- {{< faq "How do I sign up to attend the conference?" >}}
@@ -45,5 +82,5 @@ Registrations and ticket purchases can be accessed [here](https://2024.europe.fo
 {{</ faq >}} -->
 
 {{< faq "Can I go without registration?" >}}
-No, the event will be only accessible to registered users.
+No, registration is mandatory to attend the conference.
 {{</ faq >}}

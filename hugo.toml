@@ -154,6 +154,11 @@ weight = 2
   url = "loc/"
   weight = 5
 
+  [[menu.main]]
+  parent = "About"
+  name = "Family friendly activities"
+  url = "family-friendly-activities/"
+  weight = 6
 
 ## main menu item: Call for proposals
 [[menu.main]]

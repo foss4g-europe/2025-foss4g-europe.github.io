@@ -25,4 +25,4 @@ processing and visualization. As an advocate for free and open source
 software for geospatial, since 2010 she has been a volunteer trainer in the
 Romanian geospatial community, geo-spatial.org. Since 2013, Codrina has been a
 Charter Member and today serves the community as an OSGeo Board of Directors
-elected member, within her second term.
+elected member, within her third term.

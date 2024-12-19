@@ -14,7 +14,7 @@ social:
   link: "https://mastodon.social/@vcraciunescu"
 ---
 
-Vasile Craciunescu is a researcher with more than 22 years experience, working
+Vasile Craciunescu is a researcher with more than 23 years experience, working
 for the Romanian National Meteorological Administration and Terrasigna, being
 in charge with the scientific and operational activities related to GIS database
 design and implementation, deployment of standardized web services, spatial

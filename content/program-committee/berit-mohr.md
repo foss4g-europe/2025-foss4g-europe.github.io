@@ -9,6 +9,9 @@ type: "team"
 layout: "single"
 includepage: ""
 social:
+- name: "linkedin"
+  icon: "fa-brands fa-linkedin"
+  link: "https://www.linkedin.com/in/berit-mohr-414527126/"
 ---
 
 Berit Mohr is a GIS enthusiast who promotes and supports open source software.

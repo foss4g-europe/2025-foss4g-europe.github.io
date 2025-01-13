@@ -22,9 +22,11 @@ Geography applied to the environment, landscape and tourism from
 University of Genoa (Italy) in 2008. Since the same year he work at
 Fondazione Edmund Mach, a research center near Trento. He is
 interested in all features about GIS: desktop, web, geodatabase,
-developing and geodata. He is core developer and translator of GRASS
-GIS project, main developer of pyModis library and OSGeoLive and
-ZOO-Project contributor.
+developing and geodata. Right now he is working on a multiplatform
+server and client application to monitor agricultural fields named
+[DigiAgriApp](https://digiagriapp.gitlab.io/digiagriapp-website/).
+He contribute to GRASS GIS, OSGeoLive, QGIS, and ZOO-Project projects,
+he is also the main developer of pyModis library. 
 
 He is really active in the Italian community, GFOSS.it. From February
 2012 to October 2015 he was a board member and from November 2017 to

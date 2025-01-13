@@ -15,6 +15,7 @@ social:
 
 A founding member of the Estonian Geoinformatics Society with 25 years of
 expertise in geoinformatics. I am currently leading the topographic data
-production for the national database in the Estonian Land Board. My passion
-lies in ensuring spatial data quality, and I advocate for open data principles
+production for the national database in the Estonian Land and Spatial
+Development Board. My passion lies in ensuring spatial data quality, and I
+advocate for open data principles
 and data-driven policies.

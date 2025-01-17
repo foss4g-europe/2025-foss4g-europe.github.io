@@ -1,7 +1,7 @@
 ---
 title: "Academic program"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-11-16T14:07:35+02:00
+date: 2025-01-17T09:36:35+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. The
 Scientific Committee of FOSS4GE 2025 invites original research contributions
@@ -15,7 +15,7 @@ layout: "single"
 
 |   |   |
 |:--|-------:|
-| Submission of abstracts: | **XX January 2025 - 3 March 2025** |
+| Submission of abstracts: | **17 January 2025 - 3 March 2025** |
 | Announcement of accepted talks: | **17 March 2025** |
 | Full Program: | **April 2025** |
 | Submission of full academic papers: | **17 May 2025** |
@@ -26,6 +26,20 @@ layout: "single"
 
 <hr>
 <br>
+<div>
+<center>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp"
+    title="Submit a proposal for general program"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
+</center>
+</div>
+<hr>
 
 ## Description
 Following the established tradition, an Academic Track running over the days of
@@ -163,3 +177,22 @@ All papers should be formatted according to the ISPRS author’s guidelines
   href="https://www.isprs.org/documents/orangebook/app5.aspx"
   title="here"
 >}}** in both LaTeX and DOC versions.
+
+<br>
+<br>
+
+<hr>
+<br>
+<div>
+<center>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp"
+    title="Submit a proposal for general program"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
+</center>
+</div>

@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-11-30T14:36:03+02:00
+date: 2025-01-23T15:04:03+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community.
 Workshops are the practical hands-on sessions to acquire new know-how in the

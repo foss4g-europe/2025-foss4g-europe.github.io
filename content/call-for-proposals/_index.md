@@ -33,4 +33,4 @@ Proceed to the [**general program talks call-for-proposals**](/call-for-proposal
 ## Academic Program
 The CfP will be open from **17 January 2025** until **3 March 2025**
 
-Proceed to the [**academic program talks call-for-proposals**](/call-for-proposals/academic-program/).
+Proceed to the [**academic program call-for-proposals**](/call-for-proposals/academic-program/).

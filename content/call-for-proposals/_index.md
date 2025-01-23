@@ -1,7 +1,7 @@
 ---
 title: "Call for proposals"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-11-30T14:46:24+02:00
+date: 2024-01-23T14:57:24+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. We are
 welcoming your submissions under three categories: workshops, general sessions,
@@ -16,7 +16,7 @@ The CfP will be open from **2 December 2024** until **19 January 2025**
 Proceed to the [**workshops call-for-proposals**](/call-for-proposals/workshops/).
 
 **Update 20 January**
-Workshops Cfp is closed but you can help us do some capacity planning by
+Workshops CfP is closed but you can help us do some capacity planning by
 taking part in the
 [**community vote**](https://talks.osgeo.org/foss4g-europe-2025-workshops/p/voting/signup/)
 
@@ -26,4 +26,6 @@ The CfP will be open from **2 December 2024** until **16 February 2025**.
 Proceed to the [**general program talks call-for-proposals**](/call-for-proposals/general-program/).
 
 ## Academic Program
-**_Note!_** More information on the Academic CfP will be published soon.
+The CfP will be open from **17 January 2025** until **3 March 2025**
+
+Proceed to the [**academic program talks call-for-proposals**](/call-for-proposals/academic-program/).

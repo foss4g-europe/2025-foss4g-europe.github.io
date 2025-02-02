@@ -184,11 +184,17 @@ weight = 3
   url = "call-for-proposals/map-gallery-submissions/"
   weight = 4
 
-## main menu item: Call for proposals
+## main menu item: Registration
+[[menu.main]]
+name = "Registration"
+url = "registration/"
+weight = 4
+
+## main menu item: Schedule
 [[menu.main]]
 name = "Schedule"
 url = "schedule/"
-weight = 4
+weight = 5
 
 #  [[menu.main]]
 #    weight = 1
@@ -244,6 +250,11 @@ weight = 4
     name = "Family friendly activities"
     url = "schedule/family-friendly-activities/"
 
+## main menu item: Call for proposals
+[[menu.main]]
+name = "Venue"
+url = "venue/"
+weight = 6
 
 #  [[menu.main]]
 #  parent = "About"

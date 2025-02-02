@@ -62,7 +62,7 @@ togetherness—all year round, each season bringing its own unique charm.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/iCfhfN9s1od96zbY7"
+    href="https://www.google.com/maps/place/43%C2%B024'50.5%22N+17%C2%B044'15.0%22E/@43.4140278,17.7375,805m"
     title="Google Maps"
 >}}
 </div>
@@ -92,7 +92,7 @@ This park is an excellent choice for adventure enthusiasts.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/LqQaLPbMi2VN39dn8"
+    href="https://www.google.com/maps/place/43%C2%B020'59.0%22N+17%C2%B049'51.0%22E/@43.349722,17.830833,806m"
     title="Google Maps"
 >}}
 </div>
@@ -130,7 +130,7 @@ making Blagaj a must-visit destination for those exploring the region.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/HqqwVrLkmijgZ3raA"
+    href="https://www.google.com/maps/place/43%C2%B015'25.8%22N+17%C2%B054'11.1%22E/@43.257152,17.903085,807m"
     title="Google Maps"
 >}}
 </div>
@@ -168,7 +168,7 @@ to fully embrace the natural beauty of Herzegovina.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/ADkfszuBquVBLpT27"
+    href="https://www.google.com/maps/place/43%C2%B012'24.2%22N+17%C2%B047'24.5%22E/@43.206707,17.790139,808m"
     title="Google Maps"
 >}}
 </div>
@@ -204,7 +204,7 @@ quaint stone cottages, offering a tangible connection to the region's heritage.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/wTqBGXBDfy1Hmq8T8"
+    href="https://www.google.com/maps/place/43%C2%B012'16.4%22N+17%C2%B039'16.2%22E/@43.204556,17.654489,808m"
     title="Google Maps"
 >}}
 </div>
@@ -238,7 +238,7 @@ landscapes.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/hzokffddqZLJv8QV7"
+    href="https://www.google.com/maps/place/43%C2%B027'47.7%22N+17%C2%B057'46.9%22E/@43.463248,17.963019,804m"
     title="Google Maps"
 >}}
 </div>
@@ -270,7 +270,7 @@ appreciation for this unique natural treasure.
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://maps.app.goo.gl/wisHQFBojyhptkQx6"
+    href="https://www.google.com/maps/place/43%C2%B003'54.2%22N+17%C2%B045'11.9%22E/@43.06505,17.753304,810m"
     title="Google Maps"
 >}}
 </div>

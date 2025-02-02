@@ -52,9 +52,13 @@ activities that foster curiosity, encourage movement, and promote family
 togetherness—all year round, each season bringing its own unique charm.
 
 {{< extlink
-    href="https://parkgoranci-com.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
+    href="https://parkgoranci.com/"
     title="Learn more about Goranci Park"
->}}
+>}} (using
+{{< extlink
+    href="https://parkgoranci-com.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
+    title="translate.google.com"
+>}})
 
 **Location:**
 {{< extlink
@@ -228,9 +232,13 @@ a diverse array of activities year-round, all set within stunning natural
 landscapes.
 
 {{< extlink
-    href="https://www-snjeznakuca-info.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp&_x_tr_hist=true"
+    href="https://www.snjeznakuca.info/"
     title="Learn more about Rujište"
->}}
+>}} (using
+{{< extlink
+    href="https://www-snjeznakuca-info.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp&_x_tr_hist=true"
+    title="translate.google.com"
+>}})
 
 **Location:**
 {{< extlink
@@ -260,9 +268,13 @@ educational walks, all designed to foster environmental awareness and
 appreciation for this unique natural treasure.
 
 {{< extlink
-    href="https://hutovo--blato-ba.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
+    href="https://hutovo-blato.ba/"
     title="Learn more about Hutovo Blato"
->}}
+>}} (using
+{{< extlink
+    href="https://hutovo--blato-ba.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
+    title="translate.google.com"
+>}})
 
 **Location:**
 {{< extlink

@@ -154,12 +154,6 @@ weight = 2
   url = "loc/"
   weight = 5
 
-  [[menu.main]]
-  parent = "About"
-  name = "Family friendly activities"
-  url = "family-friendly-activities/"
-  weight = 6
-
 ## main menu item: Call for proposals
 [[menu.main]]
 name = "Call for proposals"
@@ -189,6 +183,18 @@ weight = 3
   name = "Map Gallery Submissions"
   url = "call-for-proposals/map-gallery-submissions/"
   weight = 4
+
+## main menu item: Call for proposals
+[[menu.main]]
+name = "Schedule"
+url = "schedule/"
+weight = 4
+
+  [[menu.main]]
+  parent = "Schedule"
+  name = "Family friendly activities"
+  url = "schedule/family-friendly-activities/"
+  weight = 1
 
 
 #  [[menu.main]]

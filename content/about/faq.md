@@ -85,9 +85,9 @@ The conference will feature a variety of activities, including
 - **Presentations:** Talks and lectures covering the latest advancements and
   applications in the geospatial field.
 - **Networking Events:** Opportunities to connect with professionals from
-  around the world, such as GeoBiz Connect and GeoGals Night.
-- **Social Activities:** Informal gatherings like Meet & Mingle (M&M) and
-  GeoExchange to foster community engagement.
+  around the world, such as Business-to-business (B2B) and GeoChicas take Mostar!.
+- **Social Activities:** Informal gatherings like Ice-Breaker and
+  Gala Dinner to foster community engagement.
 {{</ faq >}}
 
 {{< faq "Do I need a visa to attend the conference?" >}}

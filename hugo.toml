@@ -190,11 +190,59 @@ name = "Schedule"
 url = "schedule/"
 weight = 4
 
+#  [[menu.main]]
+#    weight = 1
+#    parent = "Schedule"
+#    name = "Workshops"
+#    url = "schedule/workshops/"
+#
+#  [[menu.main]]
+#    weight = 2
+#    parent = "Schedule"
+#    name = "Talks"
+#    url = "schedule/talks/"
+#
+#  [[menu.main]]
+#    weight = 3
+#    parent = "Schedule"
+#    name = "Business-to-business (B2B)"
+#    url = "schedule/b2b/"
+#
+#  [[menu.main]]
+#    weight = 4
+#    parent = "Schedule"
+#    name = "GeoChicas Take Mostar!"
+#    url = "schedule/geochicas-take-mostar/"
+#
+#  [[menu.main]]
+#    weight = 5
+#    parent = "Schedule"
+#    name = "Ice-Breaker"
+#    url = "schedule/ice-breaker/"
+#
+#  [[menu.main]]
+#    weight = 6
+#    parent = "Schedule"
+#    name = "Gala Dinner"
+#    url = "schedule/gala-dinner/"
+#
+#  [[menu.main]]
+#    weight = 7
+#    parent = "Schedule"
+#    name = "Birds of a Feather (BoF)"
+#    url = "schedule/bof/"
+#
+#  [[menu.main]]
+#    weight = 8
+#    parent = "Schedule"
+#    name = "Community Sprint"
+#    url = "schedule/community-sprint/"
+#
   [[menu.main]]
-  parent = "Schedule"
-  name = "Family friendly activities"
-  url = "schedule/family-friendly-activities/"
-  weight = 1
+    weight = 9
+    parent = "Schedule"
+    name = "Family friendly activities"
+    url = "schedule/family-friendly-activities/"
 
 
 #  [[menu.main]]

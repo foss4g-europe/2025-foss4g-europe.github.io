@@ -1,7 +1,7 @@
 ---
 title : "Schedule"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2024-11-06T20:41:24+02:00
+date: 2025-02-02T13:38:24+02:00
 description : "FOSS4G Europe 2025 schedule overview."
 draft : false
 layout : "single"
@@ -23,33 +23,33 @@ layout : "single"
     <table class="tg">
     <thead>
       <tr>
-        <td class="tg-head"><h5>Monday</h5>1 July</td>
-        <td class="tg-head"><h5>Tuesday</h5> 2 July</td>
-        <td class="tg-head"><h5>Wednesday</h5> 3 July</td>
-        <td class="tg-head"><h5>Thursday </h5>4 July</td>
-        <td class="tg-head"><h5>Friday </h5>5 July</td>
-        <td class="tg-head"><h5>Saturday </h5>6 July</td>
-        <td class="tg-head"><h5>Sunday </h5>7 July</td>
+        <td class="tg-head"><h5>Monday</h5>14 July</td>
+        <td class="tg-head"><h5>Tuesday</h5> 15 July</td>
+        <td class="tg-head"><h5>Wednesday</h5> 16 July</td>
+        <td class="tg-head"><h5>Thursday </h5>17 July</td>
+        <td class="tg-head"><h5>Friday </h5>18 July</td>
+        <td class="tg-head"><h5>Saturday </h5>19 July</td>
+        <td class="tg-head"><h5>Sunday </h5>20 July</td>
       </tr>
     </thead>
     <tbody>
       <tr style="height:200px;">
-        <td class="tg-body" colspan="2"><a href="./workshops"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a> / <a href="./ogc-euidays/"><h6><b>OGC iDays-EU</b></h6></a></td>
-        <td class="tg-body" colspan="3"><a href="./talks"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
-        <td class="tg-body" rowspan="2"><a href="./community-sprint"><h6 style="color: darkgreen;">Community Sprint / </h6></a><a href="./excursion"><h6 style="color: darkgreen;">Excursion to Setomaa 9:40 - 18:00</h6></a></td>
-        <td class="tg-body" rowspan="2"><a href="./community-sprint"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
+        <td class="tg-body" colspan="2"><a href="#"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
+        <td class="tg-body" colspan="3"><a href="#"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
+        <td class="tg-body" rowspan="2"><a href="#"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
+        <td class="tg-body" rowspan="2"><a href="#"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
       </tr>
       <tr>
-        <td class="tg-body"><h6><a href="./city-tour/"><b>Free city tour 18:15 - 19:15</b></a></h6></td>
-        <td class="tg-body"><h6><a href="./b2b/"><b>B2B 18:15-19:45</b></a> / <a href="./city-tour/"><b>Free city tour 18:15-19:15</b></a><hr> <a href="./geochicas-take-tartu/"><b>Geochicas Take Tartu 20:00 - 23:00</b></a></h6></td>
-        <td class="tg-body"><a href="./bof"><b>BoF 18:00 - 19:00</b></a><hr><h6><a href="./ice-breaker/"><b>Ice-Breaker 19:00 - 00:00</b></a></h6></td>
-        <td class="tg-body"><a href="./bof"><b>BoF 18:00 - 19:00</b></a><hr><h6><a href="./social-bytes/"><b>Social Bytes 19:00 - 01:00</b></a></h6></td>
+        <td class="tg-body"><h6><a href="#"><b></b></a></h6></td>
+        <td class="tg-body"><h6><a href="#"><b>B2B</b></a><hr><a href="#"><b>Geochicas Take Mostar</b></a></h6></td>
+        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Ice-Breaker</b></a></h6></td>
+        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Gala Dinner</b></a></h6></td>
         <td></td>
       </tr>
     </tbody>
     </table>
     <br><br>
-    <div>You can explore the agenda by clicking through the items above.</div>
+    <!--div>You can explore the agenda by clicking through the items above.</div-->
 </div>
 </section>
 

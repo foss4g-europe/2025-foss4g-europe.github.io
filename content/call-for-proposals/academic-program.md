@@ -86,7 +86,8 @@ will pay particular attention to the reproducibility of the research (where
 this is applicable). Reproducibility is ensured when the research makes all
 artefacts (input data, computational steps, methods and code) openly available
 to obtain consistent results. When available, the code shall be publicly
-released under an open source license.
+released under an open source license. Finally, we discourage authors from
+extensively using AI to write the paper.
 
 ## How to Submit a Paper
 The submission procedure is divided into two steps. Note that both steps are

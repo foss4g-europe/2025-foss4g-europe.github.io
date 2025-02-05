@@ -14,10 +14,6 @@ social:
 - name: "mastodon"
   icon: "fa-brands fa-mastodon"
   link: "https://digitalcourage.social/@moovida"
-- name: "twitter"
-  icon: "fa-brands fa-twitter"
-  link: "https://twitter.com/themoovida"
-
 ---
 
 Andrea Antonello has been involved in GFOSS development since earning his

@@ -12,9 +12,6 @@ social:
 - name: "mastodon"
   icon: "fa-brands fa-mastodon"
   link: "https://mastodon.social/@codrina"
-- name: "twitter"
-  icon: "fa-brands fa-twitter"
-  link: "https://twitter.com/CodrinaI"
 ---
 
 Codrina Ilie is a technical geographer, an open source GIS/RS power user,

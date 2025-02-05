@@ -12,9 +12,6 @@ social:
 - name: "Homepage"
   icon: "fa-solid fa-house"
   link: "https://veroandreo.gitlab.io/"
-- name: "twitter"
-  icon: "fa-brands fa-twitter"
-  link: "https://twitter.com/VeronicaAndreo"
 ---
 
 Veronica Andreo holds a PhD in Biology and an MSc in Remote Sensing and GIS

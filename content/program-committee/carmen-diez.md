@@ -15,9 +15,6 @@ social:
 - name: "instagram"
   icon: "fa-brands fa-instagram"
   link: "https://www.instagram.com/carmen10maica"
-- name: "twitter"
-  icon: "fa-brands fa-twitter"
-  link: "http://twitter.com/carmen10maica"
 ---
 
 I'm Degree in Civil Engineering and Master in Environmental Engineering and

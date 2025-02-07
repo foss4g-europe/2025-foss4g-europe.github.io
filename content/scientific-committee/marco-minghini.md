@@ -36,5 +36,6 @@ Secretary of
 a member of the Local Organising Team of
 **{{< extlink href="https://2022.foss4g.org/" title="FOSS4G 2022" >}}** and a
 Co-chair of the Academic Track at
-**{{< extlink href="https://2022.foss4g.org/" title="FOSS4G 2022" >}}** and
-**{{< extlink href="https://2023.foss4g.org/" title="FOSS4G 2023" >}}**.
+**{{< extlink href="https://2022.foss4g.org/" title="FOSS4G 2022" >}}**,
+**{{< extlink href="https://2023.foss4g.org/" title="FOSS4G 2023" >}}** and
+**{{< extlink href="https://2024.europe.foss4g.org/" title="FOSS4G Europe 2024" >}}**.

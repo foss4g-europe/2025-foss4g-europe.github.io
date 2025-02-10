@@ -190,6 +190,18 @@ name = "Registration"
 url = "registration/"
 weight = 4
 
+  [[menu.main]]
+  weight = 3
+  parent = "Registration"
+  name = "Adopt-a-ticket"
+  url = "registration/adopt-a-ticket/"
+
+  [[menu.main]]
+  weight = 4
+  parent = "Registration"
+  name = "Travel Grant"
+  url = "registration/travel-grant/"
+
 ## main menu item: Schedule
 [[menu.main]]
 name = "Schedule"
@@ -255,6 +267,12 @@ weight = 5
 name = "Venue"
 url = "venue/"
 weight = 6
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "Getting to Mostar"
+  url = "venue/getting-to-mostar/"
+  weight = 6
 
 #  [[menu.main]]
 #  parent = "About"
@@ -552,11 +570,88 @@ markerColor = "#f06a36"
 #url = "https://www.facebook.com/karlovabarlova/"
 
 [[params.map.layer]]
+id = 1
+name = "Conference Venues"
+title = "Faculty of Humanities and Social Sciences"
+address = "Matice hrvatske bb"
+location = [43.344169,17.797409]
+icon = "venue"
+events = [
+ {name="Registration desk", date="14 - 18 July"},
+ {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Community sprint", date="19-20 July", url="./schedule/community-sprint/"},
+]
+url = "https://ff.sum.ba/en"
+
+[[params.map.layer]]
+id = 2
+name = "Conference Venues"
+title = "Faculty of Economics"
+address = "Matice hrvatske bb"
+location = [43.344195,17.796311]
+icon = "venue"
+events = [
+ {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+]
+url = "https://ef.sum.ba/en"
+
+[[params.map.layer]]
+id = 3
+name = "Conference Venues"
+title = "Amphitheatre"
+address = "Matice hrvatske bb"
+location = [43.344128, 17.796726]
+icon = "venue"
+events = [
+ {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+]
+url = ""
+
+[[params.map.layer]]
+id = 4
+name = "Arrival Points"
+title = "Train station"
+address = "Trg Ivana Krndelja 1"
+location = [43.348859,17.813692]
+icon = "train"
+url = "https://www.zfbh.ba/en/"
+
+[[params.map.layer]]
+id = 5
+name = "Arrival Points"
+title = "Airport"
+address = "Ortiješ bb, PP 04"
+location = [43.290246, 17.836097]
+icon = "airport"
+url = "https://mostar-airport.ba/en/"
+
+[[params.map.layer]]
+id = 6
+name = "Arrival Points"
+title = "Main City Bus Station"
+address = "Trg Ivana Krndelja 4"
+location = [43.348444, 17.813522]
+icon = "bus"
+url = "https://autobuskastanicamostar.ba/"
+
+[[params.map.layer]]
+id = 7
+name = "Arrival Points"
+title = "West City Bus Station"
+address = "Vukovarska bb"
+location = [43.351822, 17.798668]
+icon = "bus"
+url = ""
+
+[[params.map.layer]]
 id = 20
 name = "Family Friendly Activities"
 title = "Goranci Park"
-img = ""
-address = ""
+img = "/images/icon/goranci.png"
+address = "Goranci"
 location = [43.414369, 17.736504]
 icon = "familyfirendly"
 url = "https://parkgoranci.com/"
@@ -565,8 +660,8 @@ url = "https://parkgoranci.com/"
 id = 21
 name = "Family Friendly Activities"
 title = "Fortica Adventure and Sports Park"
-img = ""
-address = ""
+img = "/images/icon/fortica.png"
+address = "Podveležje"
 location = [43.34878, 17.83107]
 icon = "familyfirendly"
 url = "https://zipline.ba/home/"
@@ -575,8 +670,8 @@ url = "https://zipline.ba/home/"
 id = 22
 name = "Family Friendly Activities"
 title = "Blagaj and the Buna River Spring"
-img = ""
-address = ""
+img = "/images/icon/tekija.png"
+address = "Buna"
 location = [43.257342, 17.90321]
 icon = "familyfirendly"
 url = "https://en.wikipedia.org/wiki/Vrelo_Bune"
@@ -585,8 +680,8 @@ url = "https://en.wikipedia.org/wiki/Vrelo_Bune"
 id = 23
 name = "Family Friendly Activities"
 title = "Green Park Žitomislići"
-img = ""
-address = ""
+img = "/images/icon/green-park.png"
+address = "Žitomislići"
 location = [43.20657, 17.79004]
 icon = "familyfirendly"
 url = "https://greenpark.ba/"
@@ -595,8 +690,8 @@ url = "https://greenpark.ba/"
 id = 24
 name = "Family Friendly Activities"
 title = "Etno selo Herceg Međugorje"
-img = ""
-address = ""
+img = "/images/icon/etno_selo.png"
+address = "Tromeđa b.b."
 location = [43.20367, 17.65443]
 icon = "familyfirendly"
 url = "https://etno-herceg.com/en/"
@@ -605,8 +700,8 @@ url = "https://etno-herceg.com/en/"
 id = 25
 name = "Family Friendly Activities"
 title = "Rujište Mountain Retreat"
-img = ""
-address = ""
+img = "/images/icon/rujiste.png"
+address = "Rujište"
 location = [43.46326, 17.96205]
 icon = "familyfirendly"
 url = "https://www.snjeznakuca.info/"
@@ -615,8 +710,8 @@ url = "https://www.snjeznakuca.info/"
 id = 26
 name = "Family Friendly Activities"
 title = "Hutovo Blato Nature Park"
-img = ""
-address = ""
+img = "/images/icon/hutovo.png"
+address = "Karaotok bb"
 location = [43.06513, 17.75382]
 icon = "familyfirendly"
 url = "https://hutovo-blato.ba/"

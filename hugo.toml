@@ -262,17 +262,30 @@ weight = 5
     name = "Family friendly activities"
     url = "schedule/family-friendly-activities/"
 
+## Main menu item: Sponsors
+[[menu.main]]
+name = "Sponsors"
+url = "/sponsors/"
+weight = 6
+hasChildren = true
+
+  [[menu.main]]
+  weight = 2
+  parent = "Sponsors"
+  name = "Call for Sponsors"
+  url = "/sponsors/call-for-sponsors/"
+
 ## main menu item: Call for proposals
 [[menu.main]]
 name = "Venue"
 url = "venue/"
-weight = 6
+weight = 7
 
   [[menu.main]]
   parent = "Venue"
   name = "Getting to Mostar"
   url = "venue/getting-to-mostar/"
-  weight = 6
+  weight = 2
 
 #  [[menu.main]]
 #  parent = "About"

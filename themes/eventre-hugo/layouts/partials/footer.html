@@ -56,7 +56,7 @@
 			<li><i class="fa fa-home"></i><span>{{ .location | markdownify }}</span></li>
 			<li><i class="fa fa-envelope"></i><span>{{ .email | markdownify}}</span></li>
 		</ul>
-		<a href="https://osm.org/go/0w2qu4G9N?way=268161418" target="_blank" class="btn btn-white-md">Get Direction</a>
+		<a href="{{ site.Params.map.link }}" target="_blank" class="btn btn-white-md">Get Direction</a>
 	</div>
 </section>
 {{ end }}

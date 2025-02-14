@@ -13,7 +13,7 @@ or data, but it is also important for the community in which everybody can freel
 participate. For years OSGeo has provided a Travel Grant Programme (TGP) for
 its conferences to increase the accessibility and diversity of FOSS4G events.
 The Mostar local organising committee is happy to provide travel grants in
-cooperation with OSGeo also for FOSS4G Europe 2024.
+cooperation with OSGeo also for FOSS4G Europe 2025.
 
 <!--center>
     <a href=""
@@ -133,14 +133,14 @@ or by
 >}}** .
 
 An easy way to support is to
-[**Adopt-a-ticket**](../../registration/adopt-a-ticket/) during your own
-[**registration**](../../registration/) to the event. The
+[**Adopt-a-ticket**](/registration/adopt-a-ticket/) during your own
+[**registration**](/registration/) to the event. The
 proceeds from **adopt-a-ticket** will be used to cover costs
 for workshop presenters and TGP applicants' gratis entrance. With at least one
 _ticket adoption_ you will be included as an honourable mention in our
 conference channels. If you buy more, you are instead eligible for one of the
 different sponsorship levels at equal value which you can find in the FOSS4GE 2024
-[**Call for Sponsors**](../../call-for-sponsors/).
+[**Call for Sponsors**](../../sponsors/call-for-sponsors/).
 
 ### About the TGP
 The FOSS4G Travel Grant Program initiative was established in 2017 by the OSGeo

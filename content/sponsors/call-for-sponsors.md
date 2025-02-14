@@ -19,15 +19,22 @@ FOSS4GE 2025 will be an in-person event but we are working hard to make
 streaming of all presentations a reality in addition to recorded material which
 will later be published on the
 **{{<
-    extlink href="https://www.youtube.com/@FOSS4G/playlists"
-    title="FOSS4G YouTube channel"
+    extlink href="https://video.osgeo.org/"
+    title="OSGeo PeerTube"
     target="blank" rel="noopener noreferrer"
->}}** and
+>}}**,
 **{{<
     extlink href="https://av.tib.eu/publisher/FOSS4G"
     title="TIB-AV"
     target="blank" rel="noopener noreferrer"
+>}}**
+and
+**{{<
+    extlink href="https://www.youtube.com/@FOSS4G/playlists"
+    title="FOSS4G YouTube channel"
+    target="blank" rel="noopener noreferrer"
 >}}** portal.
+
 
 We are honoured to invite you to take this opportunity to be a sponsor
 for the FOSS4G Europe conference in Mostar, Bosnia and Herzegovina in 2025. By sponsoring

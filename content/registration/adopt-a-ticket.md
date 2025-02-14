@@ -14,7 +14,7 @@ instructors and Travel Grant Program (TGP) receivers.
 
 ## Why?
 - We are dedicated to running the
-[**Travel Grant Program**](../../registration/travel-grant/) (TGP) - a way to
+[**Travel Grant Program**](/registration/travel-grant/) (TGP) - a way to
 facilitate accessibility and diversity in the event. In addition to a
 monetary grant for grantees' travel and accommodation expenses handled in
 cooperation with OSGeo, the LOC will grant free access to the conference main
@@ -38,12 +38,12 @@ right thing.
 
 We see it equally as an opportunity for smaller organizations and individuals
 who would like to support the conference but for whom the existing
-[**sponsorship levels**](../../call-for-sponsors/) are too expensive.
+[**sponsorship levels**](/sponsors/call-for-sponsors/) are too expensive.
 
 ## What's in it for you?
 With _Adopt-a-ticket_ you can purchase any number of extra tickets. In return
 we would like to show our gratitude by having you included in the
-[**Honorable mentions**](../../sponsors/honorable-mentions/) section of the
+[**Honorable mentions**](/sponsors/honorable-mentions/) section of the
 conference homepage. If you buy more than one extra ticket with _adopt-a-ticket_
 then you would instead be eligible for any of the predefined
-[**sponsor packages**](../../call-for-sponsors/) in an equal amount.
+[**sponsor packages**](/sponsors/call-for-sponsors/) in an equal amount.

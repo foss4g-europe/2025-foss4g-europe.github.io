@@ -8,7 +8,9 @@ FOSS4GE 2025, You are extending your support to the whole open source geospatial
 community"
 draft: false
 ---
+# Call for sponsors
 
+<br/>
 The Free and Open Source for Geospatial (FOSS4G) Europe conference 
 is the premier gathering of the OSGeo European community. This week-long event
  brings together geospatial professionals, developers, and enthusiasts for an engaging 

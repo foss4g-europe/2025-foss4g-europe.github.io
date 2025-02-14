@@ -123,7 +123,7 @@ The funding of travel grants comes from:
 
 You can help make the FOSS4G conferences more accessible and increase the
 diversity of attendees by
-[**becoming a sponsor of the conference**](../../call-for-sponsors/)
+[**becoming a sponsor of the conference**](/sponsors/call-for-sponsors/)
 or by
 **{{<
     extlink href="https://www.osgeo.org/about/how-to-become-a-sponsor/"
@@ -140,7 +140,7 @@ for workshop presenters and TGP applicants' gratis entrance. With at least one
 _ticket adoption_ you will be included as an honourable mention in our
 conference channels. If you buy more, you are instead eligible for one of the
 different sponsorship levels at equal value which you can find in the FOSS4GE 2024
-[**Call for Sponsors**](../../sponsors/call-for-sponsors/).
+[**Call for Sponsors**](/sponsors/call-for-sponsors/).
 
 ### About the TGP
 The FOSS4G Travel Grant Program initiative was established in 2017 by the OSGeo

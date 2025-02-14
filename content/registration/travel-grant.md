@@ -112,7 +112,7 @@ You can get more information on visas from the
 
 ### Supporting the TGP
 The funding of travel grants comes from:
-- [**Conference sponsors**](../../sponsors/)
+- [**Conference sponsors**](/sponsors/)
 - **{{<
     extlink href="https://www.osgeo.org/sponsors/"
     title="Sponsors of OSGeo"

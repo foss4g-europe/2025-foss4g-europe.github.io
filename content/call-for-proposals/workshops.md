@@ -50,7 +50,7 @@ channels and update timings here.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-workshops/p/voting/signup/"
     title="Community vote"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -118,7 +118,7 @@ to get the best FOSS4G experience.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-workshops/p/voting/signup/"
     title="Community vote"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>

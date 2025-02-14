@@ -5,7 +5,7 @@ date: 2025-01-10T09:38:24+02:00
 designation: "Program committee"
 image: "images/team/luca-delucchi.jpeg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 includepage: ""
 social:
@@ -26,7 +26,7 @@ developing and geodata. Right now he is working on a multiplatform
 server and client application to monitor agricultural fields named
 [DigiAgriApp](https://digiagriapp.gitlab.io/digiagriapp-website/).
 He contribute to GRASS GIS, OSGeoLive, QGIS, and ZOO-Project projects,
-he is also the main developer of pyModis library. 
+he is also the main developer of pyModis library.
 
 He is really active in the Italian community, GFOSS.it. From February
 2012 to October 2015 he was a board member and from November 2017 to

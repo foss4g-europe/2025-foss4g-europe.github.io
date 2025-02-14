@@ -5,7 +5,7 @@ date: 2025-01-13T10:32:24+02:00
 designation: "Program committee"
 image: "images/team/lea-pauts.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 social:
 - name: "linkedin"

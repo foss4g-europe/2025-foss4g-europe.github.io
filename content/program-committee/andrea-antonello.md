@@ -5,7 +5,7 @@ date: 2025-01-13T09:56:24+02:00
 designation: "Program committee"
 image: "images/team/andrea-antonello.jpg"
 draft : false
-type: "speaker"
+type: "team"
 layout: "single"
 social:
 - name: "github"

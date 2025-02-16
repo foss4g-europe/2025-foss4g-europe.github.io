@@ -33,14 +33,8 @@
 
   &:after {
     content: "";
-    background: -webkit-linear-gradient(
-      -45deg,
-      #1e5799 0%,
-      #1d1546 0%,
-      #1a0b25 100%,
-      #207cca 100%
-    );
-    opacity: 0.6;
+    background: -webkit-linear-gradient(45deg, #000000 0%, #000000 0%, #000000 100%, #000000 100%);
+    opacity: 0.61;
     position: absolute;
     top: 0;
     left: 0;
@@ -52,13 +46,11 @@
 .overlay-lighter {
   &:before {
     content: "";
-    background: -webkit-linear-gradient(
-      -45deg,
-      #1e5799 0%,
-      #1d1546 0%,
-      #1a0b25 100%,
-      #207cca 100%
-    );
+    background: -webkit-linear-gradient(-45deg,
+        #828486 0%,
+        #040309 0%,
+        #1a0b25 100%,
+        #787878 100%);
     opacity: 0.2;
     position: absolute;
     top: 0;
@@ -108,14 +100,8 @@
 .overlay-dark {
   &:before {
     content: "";
-    background: -webkit-linear-gradient(
-      -45deg,
-      #1e5799 0%,
-      #1d1546 0%,
-      #1a0b25 100%,
-      #207cca 100%
-    );
-    opacity: 0.75;
+    background: -webkit-linear-gradient(-45deg, #ffffff 0%, #000000 0%, #000000 100%, #ffffff 100%);
+    opacity: 0.65;
     position: absolute;
     top: 0;
     left: 0;
@@ -127,11 +113,9 @@
 .overlay-white {
   &:before {
     content: "";
-    background: linear-gradient(
-      0deg,
-      rgba(245, 245, 248, 0.8) 0%,
-      rgba(247, 247, 247, 1) 100%
-    );
+    background: linear-gradient(0deg,
+        rgba(245, 245, 248, 0.8) 0%,
+        rgba(247, 247, 247, 1) 100%);
     position: absolute;
     top: 0;
     left: 0;
@@ -295,12 +279,12 @@ button {
     margin-bottom: 20px;
   }
 
-  p {
-  }
+  p {}
 
   margin-bottom: 40px;
 
   &.white {
+
     h3,
     p {
       color: $light;
@@ -518,7 +502,7 @@ select.form-control:not([size]):not([multiple]) {
   padding: 10px 20px 10px 20px;
   border: 1px solid #fff;
 
-  &:hover{
+  &:hover {
     border-color: $primary-color;
   }
 }

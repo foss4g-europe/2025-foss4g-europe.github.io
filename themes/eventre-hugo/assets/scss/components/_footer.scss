@@ -1,12 +1,19 @@
 .footer-main {
-  background: #272735;
-  padding: 90px 0;
+  background: #1f2221;
+  padding-top: 60px;
 
   @include tablet {
     padding: 50px 0;
   }
 
   .block {
+    .navbar-brand {
+      .img-fluid {
+        border: solid 5px white;
+        border-radius: 2px;
+      }
+    }
+
     img {
       margin-bottom: 60px;
     }
@@ -49,7 +56,7 @@
 }
 
 .subfooter {
-  background: #2a2a37;
+  background: #1f2221;
   padding: 18px 0;
 
   .copyright-text {
@@ -58,7 +65,8 @@
       color: $light;
 
       a {
-        color: $primary-color;
+        color: $primary-color-highlight;
+        text-shadow: 3.5px 6.062px 0px rgba(0, 0, 0, 0.22);
       }
     }
 

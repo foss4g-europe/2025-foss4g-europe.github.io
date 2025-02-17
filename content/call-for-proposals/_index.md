@@ -36,6 +36,8 @@ General Program CfP is closed but you can help us shape **the** best FOSS4G
 Europe experience by taking part in the
 [**community vote**](https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/).
 
+You can vote until Sunday, **2 March** end-of-day in the CET timezone.
+
 ## Academic Program
 The CfP will be open from **17 January 2025** until **3 March 2025**
 

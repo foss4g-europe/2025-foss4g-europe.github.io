@@ -30,6 +30,12 @@ The CfP will be open from **2 December 2024** until **16 February 2025**.
 
 Proceed to the [**general program talks call-for-proposals**](/call-for-proposals/general-program/).
 
+**Update 17 February**
+
+General Program CfP is closed but you can help us shape **the** best FOSS4G
+Europe experience by taking part in the
+[**community vote**](https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/).
+
 ## Academic Program
 The CfP will be open from **17 January 2025** until **3 March 2025**
 

@@ -42,6 +42,15 @@ channels and update timings here.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/cfp"
     title="Submit a proposal for general program"       
+    class="btn btn-primary btn-lg disabled"
+    rel="noopener noreferrer"
+    >}}
+</p>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/"
+    title="Community vote"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
@@ -247,12 +256,22 @@ consider the proposal carefully.
 <hr>
 <br>
 <div>
+
 <center>
 <p>
 {{<
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/cfp"
     title="Submit a proposal for general program"       
+    class="btn btn-primary btn-lg disabled"
+    rel="noopener noreferrer"
+    >}}
+</p>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/"
+    title="Community vote"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}

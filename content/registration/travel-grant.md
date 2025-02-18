@@ -32,7 +32,7 @@ The number and size of grants may be adjusted by the FOSS4GE 2025
 Travel Grant Committee based on the amount of funds raised for TGP.
 
 Applying for travel grants is open to everyone with only a few rules:
-- Being a regional conference, travel grants for FOSS4G Europe 2024 are only
+- Being a regional conference, travel grants for FOSS4G Europe 2025 are only
 available to residents of
 **{{<
     extlink href="https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe"
@@ -79,7 +79,7 @@ Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Kazakhstan,
 Kosovo, Moldova, Montenegro, North Macedonia, Russia, Serbia, Türkiye.
 
 ### Important dates
-- **_February 2025_** - FOSS4G Europe 2024 TGP opens, start sending your applications
+- **_February 2025_** - FOSS4G Europe 2025 TGP opens, start sending your applications
 - **_31 March_** - Deadline for applying
 - **_17 April_** - Grant applications are evaluated by the committee, and receivers
 of grants are contacted by email
@@ -139,7 +139,7 @@ proceeds from **adopt-a-ticket** will be used to cover costs
 for workshop presenters and TGP applicants' gratis entrance. With at least one
 _ticket adoption_ you will be included as an honourable mention in our
 conference channels. If you buy more, you are instead eligible for one of the
-different sponsorship levels at equal value which you can find in the FOSS4GE 2024
+different sponsorship levels at equal value which you can find in the FOSS4GE 2025
 [**Call for Sponsors**](/sponsors/call-for-sponsors/).
 
 ### About the TGP

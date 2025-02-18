@@ -21,7 +21,7 @@ FOSS4GE 2025 will be an in-person event but we are working hard to make
 streaming of all presentations a reality in addition to recorded material which
 will later be published on the
 **{{<
-    extlink href="https://video.osgeo.org/"
+    extlink href="https://video.osgeo.org/c/foss4geurope/video-playlists/"
     title="OSGeo PeerTube"
     target="blank" rel="noopener noreferrer"
 >}}**,

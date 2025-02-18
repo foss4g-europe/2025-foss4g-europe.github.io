@@ -65,4 +65,4 @@ then visited:
 - **{{< extlink href="https://europe.foss4g.org/2017" title="Paris, France (2017)" target="blank" rel="noopener noreferrer" >}}**
 - Guimarães, Portugal (2018)
 - Valmiera, Latvia (2020) - cancelled
-- **{{< extlink href="https://2024.europe.foss4ge.org/" title="Tartu, Estonia (2024)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://2024.europe.foss4g.org/" title="Tartu, Estonia (2024)" target="blank" rel="noopener noreferrer" >}}**

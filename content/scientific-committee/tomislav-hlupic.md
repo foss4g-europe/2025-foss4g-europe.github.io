@@ -9,6 +9,9 @@ type: "team"
 layout: "single"
 includepage: "loc/"
 social:
+- name: "linkedin"
+  icon: "fa-brands fa-linkedin"
+  link: "https://hr.linkedin.com/in/tomislavhlupic"
 ---
 
 I am currently external associate at University of Zagereb, FER where I am

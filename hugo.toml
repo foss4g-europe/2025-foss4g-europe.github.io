@@ -344,43 +344,43 @@ popupTemplateSuffix = "</ul>"
 type = "fa"
 name = "venue"
 icon = "building-columns"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "social"
 icon = "user-group"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "pubcrawl"
 icon = "martini-glass-empty"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "airport"
 icon = "plane-departure"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "bus"
 icon = "bus"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "train"
 icon = "train"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 [[params.map.icon]]
 type = "fa"
 name = "familyfirendly"
 icon = "child-reaching"
-markerColor = "#f06a36"
+markerColor = "#4e9790"
 
 # [[params.map.layer]]
 # id = 1

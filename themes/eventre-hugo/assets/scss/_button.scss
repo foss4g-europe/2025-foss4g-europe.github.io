@@ -7,7 +7,7 @@
 .btn-main{
     padding: 23px 45px;
     border-radius: 3px;
-	background: $primary-color;
+	  background: $primary-color;
     color: $light;
     outline: none;
     &:hover{
@@ -17,6 +17,28 @@
     	color: $light;
         box-shadow: none;
     }
+}
+
+.btn-primary{
+	background-color: $primary-color;
+	color: $light;
+	border-color: $primary-color;
+	&:hover{
+		background-color: $secondary-color;
+		color: $light;
+	}
+	&:focus{
+		background-color: $secondary-color;
+		color: $light;
+		box-shadow: none;
+	}
+}
+
+.btn-primary.disabled, .btn-primary:disabled{
+	opacity:.65;
+	background-color: $primary-color;
+	color: $light;
+	border-color: $primary-color;
 }
 
 .btn-main-md{

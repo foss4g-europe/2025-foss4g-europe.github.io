@@ -2,7 +2,7 @@
 title : "Ljiljana Šerić"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-02-05T09:08:24+02:00
-designation: "Scientific committee co-chair"
+designation: "Scientific Committee co-chair"
 image: "images/team/ljiljana-seric.png"
 draft : false
 type: "team"

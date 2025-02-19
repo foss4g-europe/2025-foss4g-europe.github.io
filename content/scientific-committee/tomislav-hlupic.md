@@ -2,7 +2,7 @@
 title : "Tomislav Hlupić"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-02-07T09:10:24+02:00
-designation: "Scientific committee co-chair"
+designation: "Scientific Committee co-chair"
 image: "images/team/tomislav-hlupic.jpg"
 draft : false
 type: "team"

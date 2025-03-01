@@ -39,6 +39,6 @@ Europe experience by taking part in the
 You can vote until Sunday, **2 March** end-of-day in the CET timezone.
 
 ## Academic Program
-The CfP will be open from **17 January 2025** until **3 March 2025**
+The CfP will be open from **17 January 2025** until **~~3 March~~ 10 March 2025**
 
 Proceed to the [**academic program call-for-proposals**](/call-for-proposals/academic-program/).

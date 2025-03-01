@@ -15,8 +15,8 @@ layout: "single"
 
 |   |   |
 |:--|-------:|
-| Submission of abstracts: | **17 January 2025 - 3 March 2025** |
-| Announcement of accepted talks: | **17 March 2025** |
+| Submission of abstracts: | **17 January 2025 - ~~3 March~~ 10 March 2025** |
+| Announcement of accepted talks: | **~~17 March~~ 24 March 2025** |
 | Full Program: | **April 2025** |
 | Submission of full academic papers: | **17 May 2025** |
 | Conference: | **14 July - 20 July 2025** |
@@ -95,7 +95,7 @@ mandatory in order for authors to be able to present their work at the FOSS4GE
 conference.
 
 ### Step 1
-**Deadline** 3 March 2025
+**Deadline** ~~3 March~~ 10 March 2025
 
 As a first step, authors are invited to submit abstracts written in English,
 comprising between 800 and 1000 words and containing sufficient details for

@@ -40,7 +40,7 @@ workshop days to registered participants.
 
 - FOSS4G Europe Conference (16 - 18 July)  
 Access to 3 conference days (plenary session, conference tracks, lunch,
-coffee breaks), Ice-Breaker on 3 July, and Social Bytes on 4 July.  
+coffee breaks), Ice-Breaker on 16 July, and Social Bytes on 17 July.  
 
 - FOSS4G 2023 Community Sprint (19 & 20 July)  
 The Community Sprint is a complimentary event to which everyone is invited to

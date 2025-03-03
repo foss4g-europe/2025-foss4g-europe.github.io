@@ -51,7 +51,7 @@ channels and update timings here.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/"
     title="Community vote"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -272,7 +272,7 @@ consider the proposal carefully.
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025/p/voting/signup/"
     title="Community vote"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>

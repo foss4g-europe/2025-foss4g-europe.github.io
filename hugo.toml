@@ -208,12 +208,12 @@ name = "Schedule"
 url = "schedule/"
 weight = 5
 
-#  [[menu.main]]
-#    weight = 1
-#    parent = "Schedule"
-#    name = "Workshops"
-#    url = "schedule/workshops/"
-#
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Workshops"
+    url = "schedule/workshops/"
+
 #  [[menu.main]]
 #    weight = 2
 #    parent = "Schedule"

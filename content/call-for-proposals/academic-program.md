@@ -33,7 +33,7 @@ layout: "single"
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp"
     title="Submit a proposal for academic program"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -191,7 +191,7 @@ All papers should be formatted according to the ISPRS author’s guidelines
     extlink
     href="https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp"
     title="Submit a proposal for academic program"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>

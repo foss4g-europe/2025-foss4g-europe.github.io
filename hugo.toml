@@ -287,6 +287,12 @@ weight = 7
   url = "venue/getting-to-mostar/"
   weight = 2
 
+  [[menu.main]]
+  parent = "Venue"
+  name = "Accommodation"
+  url = "venue/accommodation/"
+  weight = 3
+
 #  [[menu.main]]
 #  parent = "About"
 #  name = "GDPR"

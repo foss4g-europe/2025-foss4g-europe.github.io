@@ -31,7 +31,7 @@ Some options for accommodation in Mostar are as follows
 
 - Price range for FOSS4G Mostar 2025 participants from €58.00 to €130.00 (Includes breakfast, wellness, saunas, salt rooms, parking, and applicable taxes)
 - General Contact: **[contact@villameydan.com](mailto:contact@villameydan.com)**
-- Website: **{{< extlink href="https://villameydan.com/" title="https://villameydan.com/" >}}**
+- Website: **{{< extlink href="https://villameydan.com/" title="villameydan.com/" >}}**
 - Mention FOSS4G-HM-25 when making a reservation to get the listed prices
 - Location: 150 m from the Old Bridge and 2,300 m from the FOSS4G conference venue
 

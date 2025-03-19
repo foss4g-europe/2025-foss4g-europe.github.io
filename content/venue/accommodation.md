@@ -43,7 +43,9 @@ venue. See location on **{{< extlink
 
 
 ## 3. Hotel & Spa Meydan
-- Price range for FOSS4G Mostar 2025 participants from €58.00 to €130.00 (Includes breakfast, wellness, saunas, salt rooms, parking, and applicable taxes)
+- Price range for FOSS4G Mostar 2025 participants from €58.00 to €130.00 (
+Includes breakfast, wellness, saunas, salt rooms, parking, and applicable
+taxes)
 - General Contact: **[contact@villameydan.com](mailto:contact@villameydan.com)**
 - Website: **{{< extlink href="https://villameydan.com/" title="villameydan.com/" >}}**
 - Mention FOSS4G-HM-25 when making a reservation to get the listed prices
@@ -61,7 +63,8 @@ venue. See location on **{{< extlink
 - Price range from €43.00 to €105.00 (Includes breakfast)
 - General Contact: **[info@bristol.ba](mailto:info@bristol.ba)**
 - Website: **{{< extlink href="https://www.bristol.ba/" title="www.bristol.ba" >}}**
-- Mention FOSS4G Europe - ecoplan.ba when making a reservation to get the listed prices
+- Mention FOSS4G Europe - ecoplan.ba when making a reservation to get the listed
+prices
 - Location: 1,000 m from the Old Bridge and 1,300 m from the FOSS4G conference
 venue. See location on **{{< extlink
     href="https://www.openstreetmap.org/?mlat=43.344150&mlon=17.809818#map=19/43.344150/17.809818&layers=N"
@@ -73,10 +76,12 @@ venue. See location on **{{< extlink
 >}}).
 
 ## 5. City Hotel Mostar
-- Price range from €66.00 to €107.00 (Includes parking, breakfast, and tourist tax)
+- Price range from €66.00 to €107.00 (Includes parking, breakfast, and tourist
+  tax)
 - General Contact: **[recepcija@city-hotel.ba](mailto:recepcija@city-hotel.ba)**
 - Website: **{{< extlink href="https://www.city-hotel.ba/" title="www.city-hotel.ba" >}}**
-- Mention FOSS4G Europe - ecoplan.ba when making a reservation to get a 10% discount. Reservations via email only!
+- Mention FOSS4G Europe - ecoplan.ba when making a reservation to get a 10%
+discount. Reservations via email only!
 - Location: 2,500 m from the Old Bridge and 950 m from the FOSS4G conference
 venue. See location on **{{< extlink
     href="https://www.openstreetmap.org/?mlat=43.352111&mlon=17.798806#map=19/43.352111/17.798806&layers=N"

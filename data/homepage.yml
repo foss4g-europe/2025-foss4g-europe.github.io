@@ -302,28 +302,42 @@ orga:
 
 ############### Sponsors ##################
 sponsors:
-  enable : false
+  enable : true
   title : "Our partners, supporters, and sponsors"
   content : "FOSS4G Europe 2025 is made possible thanks to the invaluable help
-   from the following organizations"
-#  button:
-#     enable : false
-#     label : "Become a sponsor"
-#     link : "./call-for-sponsors/"
+  from the following organizations"
+  button:
+    enable : true
+    label : "Become a sponsor"
+    link : "./call-for-sponsors/"
   sponsor_group:
 
-  - name : "Gold"
+  - name : "Platinum"
     sponsor_item:
-#    - name : ""
-#      logo : ""
-#      link : ""
+    - name : "GeoCat bv"
+      logo : "images/sponsors/geocat.svg"
+      link : "./sponsors/gold/geocat/"
 
+ # - name : "Gold"
+ #   sponsor_item:
+ #   - name : "GeoCat bv"
+ #     logo : "images/sponsors/geocat.svg"
+ #     link : "./sponsors/gold/geocat/"
 
   - name : "Silver"
     sponsor_item:
-#    - name : ""
-#      logo : ""
-#      link : ""
+    - name : "European Space Agency"
+      logo : "images/sponsors/ESA_logo.svg"
+      link : "./sponsors/gold/geocat/"
 
-  - name : "Some level name"
+  - name : "Bronze"
     sponsor_item:
+    - name : "Geoinova d.o.o."
+      logo : "images/sponsors/geoinova.svg"
+      link : "./sponsors/bronze/geoinova/"
+
+  - name : "Media Partners"
+    sponsor_item:
+    - name : "GISWorld-Tech"
+      logo : "images/partners/gisworld.png"
+      link : "./partners/gisworld/"

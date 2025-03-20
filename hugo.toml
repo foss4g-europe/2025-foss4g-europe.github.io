@@ -265,15 +265,27 @@ weight = 5
 ## Main menu item: Sponsors
 [[menu.main]]
 name = "Sponsors"
-url = "/sponsors/"
+url = "sponsors/"
 weight = 6
 hasChildren = true
 
   [[menu.main]]
   weight = 2
   parent = "Sponsors"
+  name = "Our Sponsors"
+  url = "sponsors/"
+
+  [[menu.main]]
+    weight = 3
+    parent = "Sponsors"
+    name = "Our partners"
+    url = "partners/"
+
+  [[menu.main]]
+  weight = 4
+  parent = "Sponsors"
   name = "Call for Sponsors"
-  url = "/sponsors/call-for-sponsors/"
+  url = "sponsors/call-for-sponsors/"
 
 ## main menu item: Call for proposals
 [[menu.main]]

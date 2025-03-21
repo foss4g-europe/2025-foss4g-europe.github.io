@@ -1,7 +1,7 @@
 ---
 title: "Call for sponsors"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2020-11-05T15:40:24+06:00
+date: 2025-03-21T14:42:28+01:00
 description: "We are honoured to invite you to take this opportunity to be a financial partner
 for the FOSS4G Europe conference in Mostar, Bosnia and Herzegovina in 2025. By sponsoring
 FOSS4GE 2025, You are extending your support to the whole open source geospatial

@@ -1,11 +1,11 @@
 ---
-title : "GISWorld"
+title : "GISWorld-Tech"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-12-14T15:33:24+02:00
+date: 2025-03-21T14:42:28+01:00
 designation: "Media partner"
 image: "images/partners/gisworld.png"
 draft : false
-type: "speaker"
+type: "sponsor"
 layout: "single"
 social:
 - name: "Homepage"

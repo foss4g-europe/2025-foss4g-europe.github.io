@@ -1,7 +1,7 @@
 ---
 title: "GeoCat bv"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-01-14T20:22:24+02:00
+date: 2025-03-21T14:42:28+01:00
 designation: "Platinum"
 image: "images/sponsors/geocat-platinum.png"
 draft: false
@@ -42,4 +42,4 @@ publishing data from your desktop GIS with a single click). For an even more str
 
 We also offer expert consultancy and training to help you get the most out of our products.
 
-Want to learn more? Contact us at [info@geocat.net](mailto:info@geocat.net) or visit [www.geocat.net](https://www.geocat.net).
+Want to learn more? Contact us at [info@geocat.net](mailto:info@geocat.net) or visit <a href="https://www.geocat.net" target="_blank" rel="noopener noreferrer">www.geocat.net</a>.

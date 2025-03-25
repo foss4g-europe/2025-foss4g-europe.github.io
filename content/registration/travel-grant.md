@@ -101,7 +101,7 @@ specific costs need to be covered directly, please contact the organisers of
 the conference.
 
 **Please note!** Receivers of travel grants need to arrange necessary visas and
-other documents needed to enter Estonia to attend the conference themselves.
+other documents needed to enter Bosnia and Herzegovina to attend the conference themselves.
 You can get more information on visas from the
 **{{<
     extlink href="https://www.mvp.gov.ba/konzularne_informacije/vize/default.aspx"

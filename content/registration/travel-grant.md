@@ -51,7 +51,7 @@ The purpose of the travel grant programme is to enhance diversity at the
 conference. We might reserve a few programme spots for people with unique and
 outstanding applications. However, the majority of programme spots will solely
 be determined by the point ranking. In case of equal points, the distance
-between the applicant's hometown and Tartu is measured and the applicant
+between the applicant's hometown and Mostar is measured and the applicant
 coming from farther away wins.
 
 Please consider applying for a smaller grant (up to 200 €). It would score you
@@ -101,7 +101,7 @@ specific costs need to be covered directly, please contact the organisers of
 the conference.
 
 **Please note!** Receivers of travel grants need to arrange necessary visas and
-other documents needed to enter Estonia to attend the conference themselves.
+other documents needed to enter Bosnia and Herzegovina to attend the conference themselves.
 You can get more information on visas from the
 **{{<
     extlink href="https://www.mvp.gov.ba/konzularne_informacije/vize/default.aspx"

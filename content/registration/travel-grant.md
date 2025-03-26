@@ -7,6 +7,20 @@ draft: false
 layout: "single"
 ---
 
+## <span style="color:red;">Travel Grant Programme (TGP) Applications Now Open for FOSS4G Europe 2025 Mostar</span>.
+
+We are excited to announce that applications for the **Travel Grant Programme (TGP)** for **FOSS4G Europe 2025 in Mostar** are now open!
+
+If you are interested in receiving a travel grant, you can apply by sending an email using the following
+[link](mailto:info-europe@foss4g.org?subject=!!!%20TGP%20application)<span style="color:red;">*</span>.
+
+Applications will be accepted until **April 30th, 2025**, and results will be communicated to all 
+applicants by **May 2nd, 2025**.
+
+<span style="color:red;">\* Please do not change the subject line of the email.</span>
+
+
+
 ## FOSS4GE 2025 Travel Grant Programme (TGP)
 The **F** in FOSS4G stands for Free and freedom is not only important for software
 or data, but it is also important for the community in which everybody can freely

@@ -316,25 +316,25 @@ sponsors:
     sponsor_item:
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
-      link : "./sponsors/geocat/"
+      link : "./sponsors/gold/geocat/"
 
- # - name : "Gold"
+ # - name : ""
  #   sponsor_item:
- #   - name : "GeoCat bv"
- #     logo : "images/sponsors/geocat.svg"
- #     link : "./sponsors/gold/geocat/"
+ #   - name : ""
+ #     logo : ""
+ #     link : ""
 
   - name : "Silver"
     sponsor_item:
     - name : "European Space Agency"
       logo : "images/sponsors/ESA_logo.svg"
-      link : "./sponsors/esa/"
+      link : "./sponsors/gold/geocat/"
 
   - name : "Bronze"
     sponsor_item:
     - name : "Geoinova d.o.o."
       logo : "images/sponsors/geoinova.svg"
-      link : "./sponsors/geoinova/"
+      link : "./sponsors/bronze/geoinova/"
 
   - name : "Media Partners"
     sponsor_item:

@@ -10,8 +10,12 @@ layout: "single"
 ## FOSS4GE 2025 Travel Grant Programme (TGP)
 The **F** in FOSS4G stands for Free and freedom is not only important for software
 or data, but it is also important for the community in which everybody can freely
-participate. For years OSGeo has provided a Travel Grant Programme (TGP) for
-its conferences to increase the accessibility and diversity of FOSS4G events.
+participate. For years
+**{{<
+    extlink href="https://www.osgeo.org/initiatives/foss4g-travel-grant-program/"
+    title="OSGeo has provided a Travel Grant Programme (TGP)"
+>}}**
+for its conferences to increase the accessibility and diversity of FOSS4G events.
 The Mostar local organising committee is happy to provide travel grants in
 cooperation with OSGeo also for FOSS4G Europe 2025.
 
@@ -40,8 +44,6 @@ available to residents of
 **{{<
     extlink href="https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe"
     title="European countries"
-    target="blank"
-    rel="noopener noreferrer"
 >}}**. This is a regional conference and
 a chance to attract more Europeans to the free and open source community.
 - Although Bosnia and Herzegovina is located in Europe, permanent residents of Bosnia and Herzegovina are not
@@ -74,8 +76,6 @@ high-income economy.
 **{{<
     extlink href="https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html"
     title="World Bank 2023"
-    target="blank"
-    rel="noopener noreferrer"
 >}}**
 data puts the following 15 countries into this group: Albania, Armenia,
 Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Kazakhstan,
@@ -109,8 +109,6 @@ You can get more information on visas from the
 **{{<
     extlink href="https://www.mvp.gov.ba/konzularne_informacije/vize/default.aspx"
     title="Bosnia and Herzegovina Ministry of Foreign Affairs"
-    target="blank"
-    rel="noopener noreferrer"
 >}}**.
 
 ### Supporting the TGP
@@ -119,8 +117,6 @@ The funding of travel grants comes from:
 - **{{<
     extlink href="https://www.osgeo.org/sponsors/"
     title="Sponsors of OSGeo"
-    target="blank"
-    rel="noopener noreferrer"
 >}}**
 - Annual commitment from the  OSGeo board
 
@@ -131,8 +127,6 @@ or by
 **{{<
     extlink href="https://www.osgeo.org/about/how-to-become-a-sponsor/"
     title="donating money directly to OSGeo"
-    target="blank"
-    rel="noopener noreferrer"
 >}}** .
 
 An easy way to support is to

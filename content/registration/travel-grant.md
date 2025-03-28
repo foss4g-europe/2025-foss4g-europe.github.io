@@ -15,14 +15,17 @@ its conferences to increase the accessibility and diversity of FOSS4G events.
 The Mostar local organising committee is happy to provide travel grants in
 cooperation with OSGeo also for FOSS4G Europe 2025.
 
-<!--center>
-    <a href=""
+<center>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
     <span>Submit a TGP application</span></a>
-</center-->
+</center>
+
+Applications will be accepted until **30 April, 2025**, and results will be
+communicated to all applicants by **2 May, 2025**.
 <hr>
 
 ### Travel Grants
@@ -51,7 +54,7 @@ The purpose of the travel grant programme is to enhance diversity at the
 conference. We might reserve a few programme spots for people with unique and
 outstanding applications. However, the majority of programme spots will solely
 be determined by the point ranking. In case of equal points, the distance
-between the applicant's hometown and Mostar is measured and the applicant
+between the applicant's hometown and Tartu is measured and the applicant
 coming from farther away wins.
 
 Please consider applying for a smaller grant (up to 200 €). It would score you
@@ -101,7 +104,7 @@ specific costs need to be covered directly, please contact the organisers of
 the conference.
 
 **Please note!** Receivers of travel grants need to arrange necessary visas and
-other documents needed to enter Bosnia and Herzegovina to attend the conference themselves.
+other documents needed to enter Estonia to attend the conference themselves.
 You can get more information on visas from the
 **{{<
     extlink href="https://www.mvp.gov.ba/konzularne_informacije/vize/default.aspx"

@@ -147,13 +147,11 @@ FOSS4G events.
 The travel grant program is managed by the OSGeo Conference Committee, in
 collaboration with representatives from each FOSS4G event.
 
-<!--hr>
 <center>
-    <a href=""
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
     <span>Submit a TGP application</span></a>
 </center>
-<hr-->

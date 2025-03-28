@@ -309,7 +309,7 @@ sponsors:
   button:
     enable : true
     label : "Become a sponsor"
-    link : "./call-for-sponsors/"
+    link : "/sponsors/call-for-sponsors/"
   sponsor_group:
 
   - name : "Platinum"

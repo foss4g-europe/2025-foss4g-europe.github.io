@@ -7,7 +7,26 @@ draft: false
 layout: "single"
 ---
 
-## FOSS4GE 2025 Travel Grant Programme (TGP)
+## Important dates
+|   |   |
+|:--|-------:|
+| TGP application period: | **31 March 2025 - 30 April 2025** |
+| Evaluation: | **1 May 2025 - 11 May 2025** |
+| Contact grant receivers: | **12 May 2025** |
+| Conference: | **14 July - 20 July 2025** |
+
+<center>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
+        class="btn btn-primary btn-lg disabled"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
+    <span>Submit a TGP application</span></a>
+</center>
+
+<hr>
+
+## Travel Grant Programme (TGP)
 The **F** in FOSS4G stands for Free and freedom is not only important for software
 or data, but it is also important for the community in which everybody can freely
 participate. For years
@@ -18,19 +37,6 @@ participate. For years
 for its conferences to increase the accessibility and diversity of FOSS4G events.
 The Mostar local organising committee is happy to provide travel grants in
 cooperation with OSGeo also for FOSS4G Europe 2025.
-
-<center>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
-    <span>Submit a TGP application</span></a>
-</center>
-
-Applications will be accepted until **30 April, 2025**, and results will be
-communicated to all applicants by **2 May, 2025**.
-<hr>
 
 ### Travel Grants
 Every grant includes a free conference pass, one free workshop, and a grant
@@ -80,13 +86,6 @@ high-income economy.
 data puts the following 15 countries into this group: Albania, Armenia,
 Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Kazakhstan,
 Kosovo, Moldova, Montenegro, North Macedonia, Russia, Serbia, Türkiye.
-
-### Important dates
-- **_February 2025_** - FOSS4G Europe 2025 TGP opens, start sending your applications
-- **_31 March_** - Deadline for applying
-- **_17 April_** - Grant applications are evaluated by the committee, and receivers
-of grants are contacted by email
-- **_14 July 2025_** - Start of the conference
 
 ### Payment
 We expect grantees to  be able to fund the direct costs of travelling to the
@@ -149,7 +148,7 @@ collaboration with representatives from each FOSS4G event.
 
 <center>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">

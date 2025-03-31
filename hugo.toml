@@ -78,6 +78,9 @@ attributes = ""
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.min.css"
 attributes = ""
+[[params.plugins.css]]
+link = "plugins/Leaflet.awesome-markers/leaflet.awesome-markers.css"
+attributes = ""
 
 # JS Plugins
 [[params.plugins.js]]
@@ -100,6 +103,9 @@ link = "plugins/syotimer/syotimer.min.js"
 attributes = ""
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/Leaflet.awesome-markers/leaflet.awesome-markers.min.js"
 attributes = ""
 
 [[params.teams]]

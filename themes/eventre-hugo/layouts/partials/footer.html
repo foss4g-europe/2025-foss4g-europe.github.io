@@ -40,6 +40,12 @@
 =            Google Map            =
 =================================-->
 
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | absURL }}" {{.attributes | safeHTMLAttr}}></script>
+{{ end }}
+
+
 {{ if site.Params.map.enable }}
 {{ with site.Params.map }}
 <a id="venueMap"></a>
@@ -116,10 +122,7 @@
 <script src="{{ . | safeURL }}"></script>
 {{ end }}
 
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}" {{.attributes | safeHTMLAttr}}></script>
-{{ end }}
+
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify }}

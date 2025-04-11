@@ -226,12 +226,12 @@ weight = 5
     name = "Talks"
     url = "schedule/talks/"
 
-#  [[menu.main]]
-#    weight = 3
-#    parent = "Schedule"
-#    name = "Business-to-business (B2B)"
-#    url = "schedule/b2b/"
-#
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Business-to-business (B2B)"
+    url = "schedule/b2b/"
+
 #  [[menu.main]]
 #    weight = 4
 #    parent = "Schedule"

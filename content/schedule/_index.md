@@ -34,14 +34,14 @@ layout : "single"
     </thead>
     <tbody>
       <tr style="height:200px;">
-        <td class="tg-body" colspan="2"><a href="#"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
-        <td class="tg-body" colspan="3"><a href="#"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
+        <td class="tg-body" colspan="2"><a href="./workshops/"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
+        <td class="tg-body" colspan="3"><a href="./talks/"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
         <td class="tg-body" rowspan="2"><a href="#"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
         <td class="tg-body" rowspan="2"><a href="#"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
       </tr>
       <tr>
         <td class="tg-body"><h6><a href="#"><b></b></a></h6></td>
-        <td class="tg-body"><h6><a href="#"><b>B2B</b></a><hr><a href="#"><b>Geochicas Take Mostar</b></a></h6></td>
+        <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a><hr><a href="./geochicas-take-mostar/"><b>Geochicas Take Mostar</b></a></h6></td>
         <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Ice-Breaker</b></a></h6></td>
         <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Gala Dinner</b></a></h6></td>
         <td></td>
@@ -53,12 +53,12 @@ layout : "single"
 </div>
 </section>
 
-<!--hr>
+<hr>
 <center>
-    <a href="https://pretix.eu/foss4ge2024/tartu/"
+    <a href="https://pretix.eu/foss4ge2025/mostar/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+        <img src="https://2025.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center-->
+</center>

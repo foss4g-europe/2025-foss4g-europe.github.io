@@ -647,10 +647,23 @@ events = [
 ]
 url = ""
 
+[[params.map.layer]]
+id = 27
+name = "Social Events"
+title = "Charlie bar & snack"
+address = "Kralja Petra Krešimira IV 31"
+img="images/icon/charlie.png"
+location = [43.344045, 17.79499]
+icon = "social"
+events = [
+{name="Geochicas take Mostar!", date="15 July", url="./schedule/geochicas-take-mostar/"},
+]
+url = "https://www.instagram.com/charlie.mostar/"
+
 
 [[params.map.layer]]
 id = 28
-name = "Conference Venues"
+name = "Social Events"
 title = "B2B Del Rio Restaurant"
 address = "Kardinala Stepinca 12"
 location = [43.348588,17.810125]

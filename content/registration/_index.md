@@ -10,14 +10,14 @@ layout : "single"
 
 
 
-<!--center>
-    <a href="https://pretix.eu/foss4ge2024/tartu/"
+<center>
+    <a href="https://pretix.eu/foss4ge2025/mostar/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+        <img src="https://2025.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center-->
+</center>
 <hr>
 
 {{< figure
@@ -38,11 +38,11 @@ Everyone is invited to use their own computer. Lunch is provided during the
 workshop days to registered participants.
 **Important note! One ticket grants access to a single specific workshop.**
 
-- FOSS4G Europe Conference (16 - 18 July)  
+- FOSS4G Europe 2025 Conference (16 - 18 July)  
 Access to 3 conference days (plenary session, conference tracks, lunch,
 coffee breaks), Ice-Breaker on 16 July, and Social Bytes on 17 July.  
 
-- FOSS4G 2023 Community Sprint (19 & 20 July)  
+- FOSS4G Europe 2025 Community Sprint (19 & 20 July)  
 The Community Sprint is a complimentary event to which everyone is invited to
 participate and contribute with their point of view, ideas, open mindset and
 positive aura. Beverages and lunch are provided to support participants.
@@ -68,11 +68,11 @@ incurred, such as registration fee or any other direct or indirect loss or
 consequential damage.
 
 <hr>
-<!--center>
-    <a href="https://pretix.eu/foss4ge2024/tartu/"
+<center>
+    <a href="https://pretix.eu/foss4ge2025/mostar/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+        <img src="https://2025.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center-->
+</center>

@@ -232,12 +232,12 @@ weight = 5
     name = "Business-to-business (B2B)"
     url = "schedule/b2b/"
 
-#  [[menu.main]]
-#    weight = 4
-#    parent = "Schedule"
-#    name = "GeoChicas Take Mostar!"
-#    url = "schedule/geochicas-take-mostar/"
-#
+  [[menu.main]]
+    weight = 4
+    parent = "Schedule"
+    name = "GeoChicas Take Mostar!"
+    url = "schedule/geochicas-take-mostar/"
+
 #  [[menu.main]]
 #    weight = 5
 #    parent = "Schedule"
@@ -651,13 +651,14 @@ url = ""
 [[params.map.layer]]
 id = 28
 name = "Conference Venues"
-title = "Hutovo Blato Nature Park"
+title = "B2B Del Rio Restaurant"
 address = "Kardinala Stepinca 12"
 location = [43.348588,17.810125]
-icon = "venue"
+icon = "social"
 events = [
   {name="B2B", date="15 July", url="./schedule/b2b/"},
 ]
+url = "https://www.edituscitygroup.com/en/grupacija/delrio/"
 
 [[params.map.layer]]
 id = 4

@@ -647,6 +647,18 @@ events = [
 ]
 url = ""
 
+
+[[params.map.layer]]
+id = 28
+name = "Conference Venues"
+title = "Hutovo Blato Nature Park"
+address = "Kardinala Stepinca 12"
+location = [43.348588,17.810125]
+icon = "venue"
+events = [
+  {name="B2B", date="15 July", url="./schedule/b2b/"},
+]
+
 [[params.map.layer]]
 id = 4
 name = "Arrival Points"
@@ -752,6 +764,8 @@ address = "Karaotok bb"
 location = [43.06513, 17.75382]
 icon = "familyfirendly"
 url = "https://hutovo-blato.ba/"
+
+
 
 # cookies
 [params.cookies]

@@ -8,8 +8,20 @@ draft: false
 layout: "single"
 ---
 
+**Date:** Tuesday, 15 July 2025
+
+**Location:** Charlie Bar & Snack
+
+**Address:** Kralja Petra Krešimira IV 31 ({{< extlink
+    href="https://www.openstreetmap.org/?mlat=43.344045&mlon=17.79499#map=18/43.344045/17.79499"
+    title="OpenStreetMap"
+>}},
+{{< extlink
+    href="https://www.google.com/maps/place/Charlie+-+bar+%26+snack/@43.3440049,17.7943482,202m/data=!3m2!1e3!4b1!4m6!3m5!1s0x134b431dec149865:0x2c58d2dd60cd6829!8m2!3d43.3440039!4d17.7949919!16s%2Fg%2F11p56kvg14?"
+    title="Google Maps"
+>}})
+
 ## GeoChicas Take Mostar
-**Tuesday, 15 July 2025**  
 
 GeoChicas are an international women’s mapping community with members in more
 than 12 different countries. Our aim is for women to have a greater presence and

@@ -43,7 +43,7 @@ layout : "single"
         <td class="tg-body"><h6><a href="#"><b></b></a></h6></td>
         <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a><hr><a href="./geochicas-take-mostar/"><b>Geochicas Take Mostar</b></a></h6></td>
         <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Ice-Breaker</b></a></h6></td>
-        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Gala Dinner</b></a></h6></td>
+        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="./social-bytes/"><b>Social Bytes</b></a></h6></td>
         <td></td>
       </tr>
     </tbody>

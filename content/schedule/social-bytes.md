@@ -7,22 +7,24 @@ draft: false
 layout: "single"
 ---
 
-**🗓️ Date & Time:** 17 July 2025 at 20:00
+**Date**: 17 July 2025 at 20:00
 
-**📍 Address:** Pavarotti Music Centre, Maršala Tita 179, Mostar 88000,
-Bosnia & Herzegovina  ({{< extlink
+**Location:** Pavarotti Music Centre
+
+**Address:** Maršala Tita 179 ({{< extlink
     href="https://www.openstreetmap.org/?mlat=43.33482320746533&mlon=17.817494209715623#map=18/43.33482/17.81749"
     title="OpenStreetMap"
 >}},
 {{< extlink
-    href="https://www.google.com/maps/place/43%C2%B020'05.4%22N+17%C2%B049'03.0%22E/@43.3348271,17.8149193,17z"
+    href="https://www.google.com/maps/place/The+Pavarotti+Music+Centre/@43.3348549,17.8150153,806m/data=!3m2!1e3!4b1!4m6!3m5!1s0x134b4303e7e7a401:0x50d0abf7506f716!8m2!3d43.334851!4d17.8175902!16s%2Fm%2F0gx_y1q"
     title="Google Maps"
 >}})
 
-Join us for a memorable **_Social Bytes_** evening at the iconic Pavarotti Music Centre
+## Social Bytes
+Join us for a memorable Social Bytes evening at the iconic Pavarotti Music Centre
 in Mostar - a venue where art, community, and creativity converge.
 
-**NB!** **_Social Bytes_** event is included in the price of the conference
+**NB!** Social Bytes event is included in the price of the conference
 ticket!
 - +1 tickets (for your accompanying family or friends) to the event can be
 bought in the {{< extlink
@@ -120,14 +122,14 @@ that emerges from its halls.
 
 For the FOSS4G community, the Pavarotti Music Centre is more than just a
 venue-it's a symbol of connection, openness, and creativity. Hosting the
-**_Social Bytes_** evening here offers an ideal opportunity for informal networking,
+Social Bytes evening here offers an ideal opportunity for informal networking,
 idea exchange, and enjoyment in an inspiring setting that celebrates the power
 of community and art.
 
 #### AD/HD is our host
 
 We are proud to introduce the band that will bring the sound and soul to our
-**_Social Bytes_** evening. As we bring ADHD to our data, they bring it to their
+Social Bytes evening. As we bring ADHD to our data, they bring it to their
 music! AD/HD is a group of friends and musicians who usually perform in
 different bands, but for this night, they are coming together with one
 purpose - Rock 'n' Roll.

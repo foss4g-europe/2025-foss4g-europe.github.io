@@ -7,18 +7,26 @@ image: ""
 draft: false
 layout: "single"
 ---
-###  B2B Networking Event – FOSS4G Europe 2025 Mostar
 
-**Date:** Tuesday, 15th July 2025  
+**Date:** Tuesday, 15th July 2025
+
 **Location:** Restaurant **{{<
     extlink
     href="https://www.edituscitygroup.com/en/grupacija/delrio/"
     title="Del Rio"
->}}** (on {{<
+>}}**
+
+**Address:** Kardinala Stepinca 12 ({{<
     extlink
     href="https://www.openstreetmap.org/?mlat=43.348588&mlon=17.810125#map=19/43.348588/17.810125"
     title="OpenStreetMap"
+>}}, {{<
+    extlink
+    href="https://www.google.com/maps/place/Del+Rio/@43.3485949,17.8073996,806m/data=!3m2!1e3!4b1!4m6!3m5!1s0x134b43a08f3ab6c3:0x5cd57e82d0b678da!8m2!3d43.348591!4d17.8099745!16s%2Fg%2F11b5pjcxfk"
+    title="Google Maps"
 >}})
+
+##  Business-to-business (B2B)
 
 **Time:** Gathering at 18:30, official start at 18:45, event until 20:45  
 

@@ -3,7 +3,7 @@ title : "Schedule"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-02-02T13:38:24+02:00
 description : "FOSS4G Europe 2025 schedule overview."
-map_select_id: [1,2,3,27,28,29]
+map_select_id: [1,2,3,8,27,28,29]
 draft : false
 layout : "single"
 ---

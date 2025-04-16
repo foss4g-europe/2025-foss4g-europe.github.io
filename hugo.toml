@@ -646,6 +646,19 @@ events = [
 url = ""
 
 [[params.map.layer]]
+id = 8
+name = "Conference Venues"
+title = "Dom hercega Stjepan Kosača (KOS)"
+address = "Trg hrvatskih velikana bb"
+img = "images/icon/logo_kosaca.png"
+location = [43.342265, 17.802576]
+icon = "venue"
+events = [
+ {name="Opening and closing sessions", date="16 and 18 July", url="./schedule/talks/"},
+]
+url = "https://kosaca-mostar.com/web/"
+
+[[params.map.layer]]
 id = 27
 name = "Social Events"
 title = "Charlie bar & snack"

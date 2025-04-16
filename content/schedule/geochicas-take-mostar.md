@@ -10,6 +10,8 @@ layout: "single"
 
 **Date:** Tuesday, 15 July 2025
 
+**Time:** Event start after **[B2B meeting](./b2b/)** end 
+
 **Location:** Charlie Bar & Snack
 
 **Address:** Kralja Petra Krešimira IV 31 ({{< extlink

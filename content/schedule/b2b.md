@@ -8,7 +8,9 @@ draft: false
 layout: "single"
 ---
 
-**Date:** Tuesday, 15th July 2025
+**Date:** Tuesday, 15 July 2025
+
+**Time:** Gathering at 18:30, official start at 18:45, event until 20:45  
 
 **Location:** Restaurant **{{<
     extlink
@@ -27,8 +29,6 @@ layout: "single"
 >}})
 
 ##  Business-to-business (B2B)
-
-**Time:** Gathering at 18:30, official start at 18:45, event until 20:45  
 
 The B2B networking event offers a unique opportunity to connect with businesses,
 experts, and fellow participants in a relaxed atmosphere by the beautiful

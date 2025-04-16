@@ -7,7 +7,9 @@ draft: false
 layout: "single"
 ---
 
-**Date**: 17 July 2025 at 20:00
+**Date**: Thursday, 17 July 2025
+
+**Time**: Gathering from 19:30, official start at 20:00
 
 **Location:** Pavarotti Music Centre
 

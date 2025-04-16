@@ -335,6 +335,9 @@ sponsors:
     - name : "Geoinova d.o.o."
       logo : "images/sponsors/geoinova.svg"
       link : "./sponsors/geoinova/"
+    - name : "B'GEO"
+      logo : "images/sponsors/bgeo-logo-transparent.png"
+      link : "./sponsors/bgeo/"
 
   - name : "Media Partners"
     sponsor_item:

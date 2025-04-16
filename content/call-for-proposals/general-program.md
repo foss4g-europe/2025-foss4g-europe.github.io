@@ -55,6 +55,9 @@ channels and update timings here.
     rel="noopener noreferrer"
 >}}
 </p>
+<p>
+  <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+</p>
 </center>
 </div>
 <hr>

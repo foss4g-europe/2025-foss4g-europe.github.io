@@ -629,7 +629,6 @@ address = "Matice hrvatske bb"
 location = [43.344195,17.796311]
 icon = "venue"
 events = [
- {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
 ]
 url = "https://ef.sum.ba/en"
@@ -642,7 +641,6 @@ address = "Matice hrvatske bb"
 location = [43.344128, 17.796726]
 icon = "venue"
 events = [
- {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
 ]
 url = ""

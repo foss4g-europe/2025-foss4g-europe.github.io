@@ -666,6 +666,7 @@ id = 28
 name = "Social Events"
 title = "B2B Del Rio Restaurant"
 address = "Kardinala Stepinca 12"
+img="images/icon/delrio.jpg"
 location = [43.348588,17.810125]
 icon = "social"
 events = [

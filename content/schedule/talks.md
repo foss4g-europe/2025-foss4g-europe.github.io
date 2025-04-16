@@ -3,7 +3,7 @@ title : "Talks"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-02-02T14:11:24+02:00
 description : "FOSS4G Europe 2025 presentations schedule for 16-18 July 2025."
-map_select_id: []
+map_select_id: [1,2,3]
 draft : false
 pretalx: "foss4g-europe-2025"
 type: "agenda"

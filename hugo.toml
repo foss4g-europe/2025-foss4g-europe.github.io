@@ -609,7 +609,7 @@ markerColor = "#4e9790"
 [[params.map.layer]]
 id = 1
 name = "Conference Venues"
-title = "Faculty of Humanities and Social Sciences"
+title = "Faculty of Humanities and Social Sciences (P)"
 address = "Matice hrvatske bb"
 location = [43.344169,17.797409]
 icon = "venue"
@@ -624,7 +624,7 @@ url = "https://ff.sum.ba/en"
 [[params.map.layer]]
 id = 2
 name = "Conference Venues"
-title = "Faculty of Economics"
+title = "Faculty of Economics (E)"
 address = "Matice hrvatske bb"
 location = [43.344195,17.796311]
 icon = "venue"
@@ -636,7 +636,7 @@ url = "https://ef.sum.ba/en"
 [[params.map.layer]]
 id = 3
 name = "Conference Venues"
-title = "Amphitheatre"
+title = "Amphitheatre (S)"
 address = "Matice hrvatske bb"
 location = [43.344128, 17.796726]
 icon = "venue"

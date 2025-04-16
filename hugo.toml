@@ -648,7 +648,7 @@ url = ""
 [[params.map.layer]]
 id = 8
 name = "Conference Venues"
-title = "Dom hercega Stjepan Kosača (KOS)"
+title = "Hrvatski dom Herceg Stjepan Kosača (KOS)"
 address = "Trg hrvatskih velikana bb"
 img = "images/icon/logo_kosaca.png"
 location = [43.342265, 17.802576]

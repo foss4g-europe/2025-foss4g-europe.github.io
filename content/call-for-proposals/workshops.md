@@ -125,5 +125,8 @@ to get the best FOSS4G experience.
     rel="noopener noreferrer"
 >}}
 </p>
+<p>
+  <a href="/schedule/workshops/" class="btn btn-primary btn-lg">Schedule</a>
+</p>
 </center>
 </div>

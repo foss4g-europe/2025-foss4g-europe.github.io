@@ -263,6 +263,11 @@ weight = 5
 #    url = "schedule/community-sprint/"
 #
 #
+  [[menu.main]]
+    weight = 8
+    parent = "Schedule"
+    name = "Excursion"
+    url = "schedule/excursion/"
 
   [[menu.main]]
     weight = 9

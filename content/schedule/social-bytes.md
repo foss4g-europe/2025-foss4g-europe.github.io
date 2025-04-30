@@ -2,7 +2,7 @@
 title: "Social Bytes"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2025-04-16T07:26:24+02:00
-map_select_id: [29]
+map_select_id: [10]
 draft: false
 layout: "single"
 ---

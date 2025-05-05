@@ -34,7 +34,7 @@ Registration through the
 {{< extlink href="https://pretix.eu/foss4ge2025/mostar/" title="Pretix shop" >}}
 until **14 July 2025**!
 
-Detailed route on {{< extlink href="#" title="graphhopper.com" >}} | {{< extlink href="https://www.google.com/maps/d/u/0/embed?mid=1H1Wm53BmYlyYtA5BhSsd9OAfCPIbdk8" title="googlemaps" >}}
+Detailed route on {{< extlink href="https://graphhopper.com/maps/?point=43.343832%2C17.796693&point=43.256692%2C17.902137&point=43.156459%2C17.608915&point=43.18431%2C17.53425&point=43.22888%2C17.73836_43.22888%2C+17.73836&point=43.343825%2C17.7968&profile=car&layer=Omniscale&custom_model=%7B%22distance_influence%22%3A15%2C%22priority%22%3A%5B%7B%22if%22%3A%22road_environment%3D%3DFERRY%22%2C%22multiply_by%22%3A%220.9%22%7D%5D%2C%22speed%22%3A%5B%5D%2C%22areas%22%3A%7B%22type%22%3A%22FeatureCollection%22%2C%22features%22%3A%5B%5D%7D%7D" title="graphhopper.com" >}} | {{< extlink href="https://www.google.com/maps/d/u/0/embed?mid=1H1Wm53BmYlyYtA5BhSsd9OAfCPIbdk8" title="googlemaps" >}}
 
 ---
 

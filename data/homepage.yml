@@ -329,6 +329,9 @@ sponsors:
     - name : "European Space Agency"
       logo : "images/sponsors/ESA_logo.svg"
       link : "./sponsors/esa/"
+    - name : "OPENGIS.ch"
+      logo : "images/sponsors/opengisch.png"
+      link : "./sponsors/opengisch/"
 
   - name : "Bronze"
     sponsor_item:

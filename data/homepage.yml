@@ -342,6 +342,12 @@ sponsors:
       logo : "images/sponsors/bgeo-logo-transparent.png"
       link : "./sponsors/bgeo/"
 
+  - name : "Supporter"
+    sponsor_item:
+    - name : "Camp to Camp"
+      logo : "images/sponsors/C2C_2022_RGB_moto_square_logo.svg"
+      link : "./sponsors/camp-to-camp/"
+
   - name : "Media Partners"
     sponsor_item:
     - name : "GISWorld-Tech"

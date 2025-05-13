@@ -460,7 +460,8 @@ events = [
  {name="Registration desk", date="14 - 18 July"},
  {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
- {name="Community sprint", date="19-20 July", url="./schedule/community-sprint/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"},
+ {name="Community sprint", date="19-20 July", url="./schedule/community-sprint/"}
 ]
 url = "https://ff.sum.ba/en"
 
@@ -473,6 +474,7 @@ location = [43.344195,17.796311]
 icon = "venue"
 events = [
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
 ]
 url = "https://ef.sum.ba/en"
 
@@ -485,6 +487,7 @@ location = [43.344128, 17.796726]
 icon = "venue"
 events = [
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
 ]
 url = ""
 
@@ -510,6 +513,7 @@ location = [43.346468, 17.796709]
 icon = "venue"
 events = [
   {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+  {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
 ]
 url = "https://fgag.sum.ba/en"
 

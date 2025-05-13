@@ -256,13 +256,12 @@ weight = 5
 #    name = "Birds of a Feather (BoF)"
 #    url = "schedule/bof/"
 #
-#  [[menu.main]]
-#    weight = 8
-#    parent = "Schedule"
-#    name = "Community Sprint"
-#    url = "schedule/community-sprint/"
-#
-#
+  [[menu.main]]
+    weight = 8
+    parent = "Schedule"
+    name = "Community Sprint"
+    url = "schedule/community-sprint/"
+
   [[menu.main]]
     weight = 8
     parent = "Schedule"

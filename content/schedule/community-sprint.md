@@ -1,7 +1,7 @@
 ---
 title: "Community Sprint"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2025-02-02T13:47:24+06:00
+date: 2025-05-13T10:54:24+02:00
 map_select_id: []
 draft: false
 layout: "single"
@@ -20,7 +20,14 @@ documentation, feedback, discussions, and testing are very important for
 projects! Conference registration is not a prerequisite for participation in
 the community sprint.
 
-More information on the sprint setup coming soon.
+Although participation in the sprint is free of charge we kindly ask you to
+**{{<
+    extlink href="https://wiki.osgeo.org/wiki/FOSS4G-Europe-2025/CommunitySprint"
+    title="write down your name in the OSGeo wiki"
+    target="blank"
+    rel="noopener noreferrer"
+>}}**
+as it helps us with better planning for food and other resources.
 
 {{< figure
     src="https://wiki.osgeo.org/w/images/0/08/FOSS4G_2016_OSGeo_Code_Sprint_indoor_hacking_overview.jpg"

@@ -31,22 +31,25 @@ layout : "single"
 
 Registration fee includes:
 
-- Workshops (14 & 15 July)  
+- [**Workshops**](/schedule/workshops/) (14 & 15 July)  
 Workshops are held in 4-hour formats. Experienced community members guide
 participants in a hands-on manner through the secrets of the presented project.
 Everyone is invited to use their own computer. Lunch is provided during the
 workshop days to registered participants.
 **Important note! One ticket grants access to a single specific workshop.**
 
-- FOSS4G Europe 2025 Conference (16 - 18 July)  
+- [**FOSS4G Europe 2025 Conference**](/schedule/talks/) (16 - 18 July)  
 Access to 3 conference days (plenary session, conference tracks, lunch,
 coffee breaks), Ice-Breaker on 16 July, and Social Bytes on 17 July.  
 
-- FOSS4G Europe 2025 Community Sprint (19 & 20 July)  
+- [**FOSS4G Europe 2025 Community Sprint**](/schedule/community-sprint/) (19 & 20 July)  
 The Community Sprint is a complimentary event to which everyone is invited to
 participate and contribute with their point of view, ideas, open mindset and
 positive aura. Beverages and lunch are provided to support participants.
-**Registration information for the Community Sprint will be shared separately.**
+**Community sprint registration is done at
+{{< extlink href="https://wiki.osgeo.org/wiki/FOSS4G-Europe-2025/CommunitySprint" title="OSGeo wiki" >}}.**
+**If you plan to come then please sign up so we can plan for
+food and beverages and don't have to produce unnecessary waste.**
 
 ## Schedule
 A more in-depth overview of the schedule and various events taking place during

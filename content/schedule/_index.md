@@ -37,20 +37,26 @@ layout : "single"
       <tr style="height:200px;">
         <td class="tg-body" colspan="2"><a href="./workshops/"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
         <td class="tg-body" colspan="3"><a href="./talks/"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
-        <td class="tg-body" rowspan="2"><a href="./community-sprint/"><h6 style="color: darkgreen;">Community Sprint</h6></a><hr><a href="./excursion"><h6 style="color: darkgreen;">Herzegovina Food and culture tour 9:00 - 18:30</h6></a></td>
-        <td class="tg-body" rowspan="2"><a href="./community-sprint/"><h6 style="color: darkgreen;">Community Sprint</h6></a></td>
+        <td class="tg-body" rowspan="3"><a href="./community-sprint/"><h6 style="color: darkgreen;"><b>Community Sprint<br>09:00-19:00</b></h6></a><hr><a href="./excursion"><b>Herzegovina Food and culture tour 09:00 - 18:30</b></a></td>
+        <td class="tg-body" rowspan="3"><a href="./community-sprint/"><h6 style="color: darkgreen;"><b>Community Sprint<br>09:00-19:00</b></h6></a></td>
       </tr>
       <tr>
-        <td class="tg-body"><h6><a href="#"><b></b></a></h6></td>
-        <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a><hr><a href="./geochicas-take-mostar/"><b>Geochicas Take Mostar</b></a></h6></td>
-        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="#"><b>Ice-Breaker</b></a></h6></td>
-        <td class="tg-body"><a href="#"><b>BoF</b></a><hr><h6><a href="./social-bytes/"><b>Social Bytes</b></a></h6></td>
-        <td></td>
+        <td class="tg-body" rowspan="2"></td>
+        <td class="tg-body"><a href="./b2b/"><b>B2B<br>18:30-20:45</b></a></td>
+        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
+        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
+        <td class="tg-body" rowspan="2"></td>
+      </tr>
+      <tr>
+        <td class="tg-body" rowspan="1"><a href="./geochicas-take-mostar/"><b>Geochicas Take Mostar<br>21:00-..</b></a></td>
+        <td class="tg-body" rowspan="1"><a href="#"><b>Ice-Breaker</b></a></td>
+        <td class="tg-body" rowspan="1"><a href="./social-bytes/"><b>Social Bytes<br>19:30-..</b></a></td>
+        </td>
       </tr>
     </tbody>
     </table>
     <br><br>
-    <!--div>You can explore the agenda by clicking through the items above.</div-->
+    <div>You can explore the agenda by clicking through the items above.</div>
 </div>
 </section>
 

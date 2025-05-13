@@ -502,6 +502,19 @@ events = [
 url = "https://kosaca-mostar.com/web/"
 
 [[params.map.layer]]
+id = 11
+name = "Conference Venues"
+title = "Faculty of Civil Engineering, Architecture and Geodesy (C)"
+address = "Matice hrvatske bb"
+location = [43.346468, 17.796709]
+icon = "venue"
+events = [
+  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+]
+url = "https://fgag.sum.ba/en"
+
+
+[[params.map.layer]]
 id = 27
 name = "Social Events"
 title = "Charlie bar & snack"

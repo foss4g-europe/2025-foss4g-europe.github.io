@@ -2,7 +2,7 @@
 title: "Birds-of-a-Feather"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2025-02-02T13:46:24+06:00
-map_select_id: []
+map_select_id: [1,2,3,11]
 draft: false
 layout: "single"
 ---
@@ -16,4 +16,16 @@ exactly the chance.
 BoF's can be held in BoF rooms at specified timeslots or taken off-site for
 breakfast, lunch, or dinner!
 
-More information coming soon!
+The FOSS4G Europe conference provides the BoF rooms, but the setup of the
+bird-of-feather meetup is done informally using
+**{{<
+    extlink href="https://wiki.osgeo.org/wiki/FOSS4G-Europe-2025/BirdsOfAFeather"
+    title="the OSGeo wiki"
+    target="blank"
+    rel="noopener noreferrer"
+>}}**
+by you yourself.
+
+We will try to keep up and add the ones taking place during the allocated time
+slots also to [**the schedule**](/schedule/talks/)
+to give a better overview of the discussions that are taking place.

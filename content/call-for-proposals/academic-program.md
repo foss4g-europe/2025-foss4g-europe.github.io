@@ -37,6 +37,9 @@ layout: "single"
     rel="noopener noreferrer"
 >}}
 </p>
+<p>
+  <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+</p>
 </center>
 </div>
 <hr>
@@ -194,6 +197,9 @@ All papers should be formatted according to the ISPRS author’s guidelines
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
+</p>
+<p>
+  <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
 </p>
 </center>
 </div>

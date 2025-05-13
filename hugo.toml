@@ -263,19 +263,19 @@ weight = 5
     url = "schedule/community-sprint/"
 
   [[menu.main]]
-    weight = 8
+    weight = 9
     parent = "Schedule"
     name = "Excursion"
     url = "schedule/excursion/"
 
   [[menu.main]]
-    weight = 9
+    weight = 10
     parent = "Schedule"
     name = "Family friendly activities"
     url = "schedule/family-friendly-activities/"
 
   [[menu.main]]
-    weight = 10
+    weight = 11
     parent = "Schedule"
     name = "Pub crawl"
     url = "schedule/pub-crawl/"

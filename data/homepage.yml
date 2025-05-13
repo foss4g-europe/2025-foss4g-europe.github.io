@@ -9,6 +9,10 @@ banner:
     year : 2025
     month : 7
     day : 14
+  button:
+    enable: true
+    label: "registration"
+    link: "/registration/"
   # button:
   #   enable : true
   #   label : "recordings on youtube"

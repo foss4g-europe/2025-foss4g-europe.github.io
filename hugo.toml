@@ -783,7 +783,7 @@ link = "https://www.facebook.com/foss4ge/"
 #icon = "fa-brands fa-google-play"
 #link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
 
-#[[params.social]]
-#title = "f-droid"
-#icon = "fa-brands fa-android"
-#link = "https://f-droid.org/en/packages/net.gaast.giggity/"
+[[params.social]]
+title = "f-droid"
+icon = "fa-brands fa-android"
+link = "https://f-droid.org/en/packages/net.gaast.giggity/"

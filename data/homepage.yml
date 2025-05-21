@@ -351,6 +351,9 @@ sponsors:
     - name : "Camp to Camp"
       logo : "images/sponsors/C2C_2022_RGB_moto_square_logo.svg"
       link : "./sponsors/camp-to-camp/"
+    - name : "QGIS España"
+      logo : "images/sponsors/qgises-logo.png"
+      link : "./sponsors/qgises/"
 
   - name : "Media Partners"
     sponsor_item:

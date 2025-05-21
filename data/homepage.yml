@@ -322,11 +322,11 @@ sponsors:
       logo : "images/sponsors/geocat.svg"
       link : "./sponsors/geocat/"
 
- # - name : "Gold"
- #   sponsor_item:
- #   - name : "GeoCat bv"
- #     logo : "images/sponsors/geocat.svg"
- #     link : "./sponsors/gold/geocat/"
+  - name : "Gold"
+    sponsor_item:
+    - name : "GeoSolutions"
+      logo : "images/sponsors/geosolutions.png"
+      link : "./sponsors/geosolutions/"
 
   - name : "Silver"
     sponsor_item:

@@ -23,8 +23,7 @@ concurrently.
 - Use the DroneTM mobile Web app to create, access, and download individual
 flight plans for low-cost drones
 - Execute short (~15minute) automated drone flights using the DroneTM flight
-plans (we encourage people to bring their own drones (optional) - drone tasking
-manager supports DJI Mini 4 Pro, DJI Air 3, Potensic Atom drones ).
+plans.
 - Process the resulting data into orthophoto images, Digital Elevation Models,
 and 3D meshes (using OpenDroneMap as part of the DroneTM back end)
 - Import the orthophoto images into QGIS for visualization. We won't have

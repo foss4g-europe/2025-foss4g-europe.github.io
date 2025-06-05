@@ -339,6 +339,9 @@ sponsors:
     - name : "OPENGIS.ch"
       logo : "images/sponsors/opengisch.png"
       link : "./sponsors/opengisch/"
+    - name : "CloudFerro"
+      logo : "images/sponsors/cloudferro-logo-transparent.png"
+      link : "./sponsors/cloudferro/"
 
   - name : "Bronze"
     sponsor_item:

@@ -33,7 +33,8 @@ traffic**, and **navigation** solutions for consumers and enterprises, including
 the automotive sector, while actively innovating in areas like **autonomous**
 driving.
 
-TomTom is involved with the **OpenStreetMap (OSM)** project, both as a significant
+TomTom is involved with the Open Maps communities and societies in general and
+in particular the **OpenStreetMap (OSM)** project, both as a significant
 data user and an active community supporter. Since 2021, TomTom has improved
 OSM data across over 200 countries through organized editing and integrated
 OSM data into its new map products in 2023. As the first **Platinum corporate

@@ -330,6 +330,9 @@ sponsors:
     - name : "TomTom"
       logo : "images/sponsors/tomtom.png"
       link : "./sponsors/tomtom/"
+    - name : "Quarticle"
+      logo : "images/sponsors/quarticle-logo-transparent.png"
+      link : "./sponsors/quarticle/"
 
   - name : "Silver"
     sponsor_item:

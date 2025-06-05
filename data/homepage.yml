@@ -327,6 +327,9 @@ sponsors:
     - name : "GeoSolutions"
       logo : "images/sponsors/geosolutions.png"
       link : "./sponsors/geosolutions/"
+    - name : "TomTom"
+      logo : "images/sponsors/tomtom.png"
+      link : "./sponsors/tomtom/"
 
   - name : "Silver"
     sponsor_item:

@@ -2,7 +2,7 @@
 title : "EnviroSolutions"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-06-05T08:31:24+03:00
-designation: "Silver"
+designation: "Supporter"
 image: "images/sponsors/envirosolutions-logo.png"
 draft : false
 type: "sponsor"

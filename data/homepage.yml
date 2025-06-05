@@ -354,6 +354,9 @@ sponsors:
     - name : "QGIS España"
       logo : "images/sponsors/qgises-logo.png"
       link : "./sponsors/qgises/"
+    - name : "EnviroSolutions"
+      logo : "images/sponsors/envirosolutions.svg"
+      link : "./sponsors/envirosolutions/"
 
   - name : "Media Partners"
     sponsor_item:

@@ -17,6 +17,9 @@ social:
 - name: "facebook"
   icon: "fa-brands fa-facebook"
   link: "https://www.facebook.com/quarticle/"
+- name: "mastodon"
+  icon: "fa-brands fa-mastodon"
+  link: "https://mastodon.social/@Quarticle"
 ---
 
 **{{<

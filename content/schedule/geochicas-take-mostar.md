@@ -10,7 +10,7 @@ layout: "single"
 
 **Date:** Tuesday, 15 July 2025
 
-**Time:** Event start after **[B2B meeting](/schedule/b2b/)** end 
+**Time:** Event start after **[B2B meeting](/schedule/b2b/)** end
 
 **Location:** Charlie Bar & Snack
 

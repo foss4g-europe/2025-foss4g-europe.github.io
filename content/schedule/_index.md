@@ -3,7 +3,7 @@ title : "Schedule"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-02-02T13:38:24+02:00
 description : "FOSS4G Europe 2025 schedule overview."
-map_select_id: [1,2,3,8,11,27,28,29,35]
+map_select_id: [1,2,3,8,9,11,27,28,29,35]
 draft : false
 layout : "single"
 ---
@@ -41,15 +41,15 @@ layout : "single"
         <td class="tg-body" rowspan="3"><a href="./community-sprint/"><h6 style="color: darkgreen;"><b>Community Sprint<br>09:00-19:00</b></h6></a></td>
       </tr>
       <tr>
-        <td class="tg-body" rowspan="2"></td>
-        <td class="tg-body"><a href="./b2b/"><b>B2B<br>18:30-20:45</b></a></td>
+        <td class="tg-body" rowspan="2"><a href="./city-tour/"><b>Free city tour<br>18:00-19:15</b></a></td>
+        <td class="tg-body"><a href="./city-tour/"><b>Free city tour<br>18:00-19:15</b></a><hr><a href="./b2b/"><b>B2B<br>18:30-20:45</b></a></td>
         <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
         <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
         <td class="tg-body" rowspan="2"></td>
       </tr>
       <tr>
         <td class="tg-body" rowspan="1"><a href="./geochicas-take-mostar/"><b>Geochicas Take Mostar<br>21:00-..</b></a></td>
-        <td class="tg-body" rowspan="1"><a href="#"><b>Ice-Breaker</b></a></td>
+        <td class="tg-body" rowspan="1"><a href="#"><b>Ice-Breaker<br>19:30-..</b></a></td>
         <td class="tg-body" rowspan="1"><a href="./social-bytes/"><b>Social Bytes<br>19:30-..</b></a></td>
         </td>
       </tr>

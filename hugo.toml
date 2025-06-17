@@ -235,53 +235,59 @@ weight = 5
   [[menu.main]]
     weight = 4
     parent = "Schedule"
+    name = "Free city tour"
+    url = "schedule/city-tour/"
+
+  [[menu.main]]
+    weight = 5
+    parent = "Schedule"
     name = "Business-to-business (B2B)"
     url = "schedule/b2b/"
 
   [[menu.main]]
-    weight = 5
+    weight = 6
     parent = "Schedule"
     name = "GeoChicas Take Mostar!"
     url = "schedule/geochicas-take-mostar/"
 
   [[menu.main]]
-    weight = 6
+    weight = 7
     parent = "Schedule"
     name = "Ice-Breaker"
     url = "schedule/ice-breaker/"
 
   [[menu.main]]
-    weight = 7
+    weight = 8
     parent = "Schedule"
     name = "Social Bytes"
     url = "schedule/social-bytes/"
 
   [[menu.main]]
-    weight = 8
+    weight = 9
     parent = "Schedule"
     name = "Birds of a Feather (BoF)"
     url = "schedule/bof/"
 
   [[menu.main]]
-    weight = 9
+    weight = 10
     parent = "Schedule"
     name = "Community Sprint"
     url = "schedule/community-sprint/"
 
   [[menu.main]]
-    weight = 10
+    weight = 11
     parent = "Schedule"
     name = "Excursion"
     url = "schedule/excursion/"
 
   [[menu.main]]
-    weight = 11
+    weight = 12
     parent = "Schedule"
     name = "Family friendly activities"
     url = "schedule/family-friendly-activities/"
 
   [[menu.main]]
-    weight = 12
+    weight = 13
     parent = "Schedule"
     name = "Pub crawl"
     url = "schedule/pub-crawl/"
@@ -552,9 +558,9 @@ url = "https://www.edituscitygroup.com/en/grupacija/delrio/"
 
 [[params.map.layer]]
 id = 35
-name = "Ice Breaker"
+name = "Social Events"
 title = "Taboo Bar & Restaurant"
-img = "/images/icon/taboo_icon.png"
+img = "/images/icon/taboo-icon.png"
 address = "Vukovarska bb"
 location = [43.350939,17.797822]
 icon = "social"
@@ -575,6 +581,18 @@ events = [
   {name="Social Bytes", date="17 July", url="./schedule/social-bytes/"},
 ]
 url = "https://www.mcpavarotti.com/"
+
+[[params.map.layer]]
+id = 28
+name = "Social Events"
+title = "Spanish square"
+address = "Španjolski trg 1"
+location = [43.343114, 17.807355]
+icon = "social"
+events = [
+  {name="Free city tour", date="14 and 15 July", url="./schedule/city-tour/"},
+]
+url = ""
 
 
 [[params.map.layer]]

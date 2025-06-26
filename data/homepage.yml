@@ -54,11 +54,11 @@ about:
 
 
 ################# Speaker ###################
-# speakers:
-#   enable : true
-#   title : "With _**keynotes**_ by"
-#   content : ""
-#   # speaker items are coming from "content/speakers" folder
+speakers:
+  enable : false
+  title : "With _**keynotes**_ by"
+  content : ""
+  # speaker items are coming from "content/speaker" folder
 
 ###################### Tab ####################
 tab:

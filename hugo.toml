@@ -170,25 +170,37 @@ weight = 3
   parent = "Call for proposals"
   name = "Call for workshops"
   url = "call-for-proposals/workshops/"
-  weight = 1
+  weight = 4
 
   [[menu.main]]
   parent = "Call for proposals"
   name = "General Program"
   url = "call-for-proposals/general-program/"
-  weight = 2
+  weight = 5
 
   [[menu.main]]
   parent = "Call for proposals"
   name = "Academic Program"
   url = "call-for-proposals/academic-program/"
-  weight = 3
+  weight = 6
 
   [[menu.main]]
   parent = "Call for proposals"
   name = "Map Gallery Submissions"
   url = "call-for-proposals/map-gallery-submissions/"
-  weight = 4
+  weight = 1
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Speaker guidelines"
+  url = "call-for-proposals/speaker-guidelines/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Session chair guidelines"
+  url = "call-for-proposals/session-chair-guidelines/"
+  weight = 3
 
 ## main menu item: Registration
 [[menu.main]]

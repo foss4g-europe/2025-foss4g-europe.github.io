@@ -345,6 +345,9 @@ sponsors:
     - name : "CloudFerro"
       logo : "images/sponsors/cloudferro-logo-transparent.png"
       link : "./sponsors/cloudferro/"
+    - name : "MapTiler"
+      logo : "images/sponsors/maptiler-logo-vertical.png"
+      link : "./sponsors/maptiler/"
 
   - name : "Bronze"
     sponsor_item:

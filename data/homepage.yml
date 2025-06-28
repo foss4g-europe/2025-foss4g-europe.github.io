@@ -55,7 +55,7 @@ about:
 
 ################# Speaker ###################
 speakers:
-  enable : false
+  enable : true
   title : "With _**keynotes**_ by"
   content : ""
   # speaker items are coming from "content/speaker" folder

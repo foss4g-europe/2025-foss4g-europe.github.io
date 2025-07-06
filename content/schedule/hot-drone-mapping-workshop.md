@@ -8,6 +8,17 @@ draft: false
 layout: "single"
 ---
 
+
+We are excited to welcome you at the HOT Tech Team Community Drone Mapping
+Workshop and/or the  Collaborative Field Mapping Sessions! The sessions are
+**OPEN** and **FREE** to join. You can drop in. We do encourage you to
+**{{< extlink
+    href="https://forms.gle/97B3APQS5Qs77pUJ9"
+    title="fill in this form"
+>}}** to help us understand numbers and also a way to follow-up
+with you before and after the sessions. If any question, feel free to
+email [**petya.kangalova@hotosm.org**](mailto:petya.kangalova@hotosm.org)
+
 **Summary**: Drone imagery and data is useful for mapping, disaster resilience,
 and a variety of humanitarian, development, and economic activities, but
 drone mapping tools have not been well-adapted to community use in development

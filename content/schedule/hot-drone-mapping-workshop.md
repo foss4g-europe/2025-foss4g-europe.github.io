@@ -74,7 +74,7 @@ FOSS tools, discussion of possible analysis and use
 - 12:45 - 13:00: Session evaluation and questions
 
 ##### Collaborative Field Mapping  in Mostar with HOT tech team!
-**Friday (18 July), 9:30-10:30 and 15:30-16:30 @ CA01**
+**Friday (18 July), 9:30-10:30 and 16:00-17:00 @ CA01**
 
 **Summary**: Join us in these 2x 1 hour sessions  (morning and afternoon
 session) to get hands-on experience using the Field Tasking Manager (

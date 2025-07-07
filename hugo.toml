@@ -337,6 +337,12 @@ weight = 7
 
   [[menu.main]]
   parent = "Venue"
+  name = "About venue"
+  url = "venue/about-venue/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Venue"
   name = "Getting to Mostar"
   url = "venue/getting-to-mostar/"
   weight = 2

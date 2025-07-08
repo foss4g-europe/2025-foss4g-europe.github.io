@@ -27,10 +27,6 @@ Whether it’s beautiful, bold, interactive, or classic — we want to see your 
 Don't let your masterpiece sit in a folder. Share it with the FOSS4G community! 
 
 
-
-**Note!** the Map Gallery submissions will be opened soon. We will announce it
-on our social media channels.
-
 In Bosnia and Herzegovina, the adoption of GIS technologies is limited, and
 data accessibility remains a challenge. Our Map Gallery initiative aims to
 showcase the power of GIS by creating maps based on available data about Bosnia

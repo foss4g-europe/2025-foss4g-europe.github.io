@@ -518,6 +518,7 @@ icon = "venue"
 events = [
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
  {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
+ {name="Expo Area", date="16 -18 July", url="./sponsors/"}
 ]
 url = ""
 
@@ -779,6 +780,19 @@ address = "Kralja Tvrtka 26"
 location = [43.3463617, 17.8043965]
 icon = "pubcrawl"
 url = "https://www.instagram.com/von.herzog/"
+
+[[params.map.layer]]
+id = 35
+name = "Conference Venues"
+title = "Student Centre"
+address = "Stjepana Radića 84A"
+location = [43.348166,17.795345]
+icon = "venue"
+events = [
+ {name="Catering", date="14 - 18 July"},
+ {name="Community Sprint", date="19 -20 July", url="./schedule/community-sprint"}
+]
+url = "https://www-scm-ba.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
 
 
 # cookies

@@ -24,10 +24,10 @@ social:
     target="blank" rel="noopener noreferrer"
 >}}**
 makes maps easy. Everyone can customize and integrate the maps into their
->websites and mobile apps. MapTiler is a platform that gives developers
->a maps API, tools to turn imagery and data into map tiles, and a server for
->hosting maps locally using MBTiles, GeoPackage, or PostGIS. At MapTiler,
->we ♡ open source and believe in its importance to geographical systems.
+websites and mobile apps. MapTiler is a platform that gives developers
+a maps API, tools to turn imagery and data into map tiles, and a server for
+hosting maps locally using MBTiles, GeoPackage, or PostGIS. At MapTiler,
+we ♡ open source and believe in its importance to geographical systems.
 
 - In 2017, we started OpenMapTiles - the first truly open project for generating
 vector tiles, and we are still maintaining it now. The wider community

@@ -517,7 +517,7 @@ location = [43.344128, 17.796726]
 icon = "venue"
 events = [
  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
- {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"},
  {name="Expo Area", date="16 -18 July", url="./sponsors/"}
 ]
 url = ""

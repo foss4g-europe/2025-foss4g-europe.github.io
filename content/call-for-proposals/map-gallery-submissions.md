@@ -13,18 +13,19 @@ draft: false
 layout: "single"
 ---
 
-##Map Submissions Open!
+## Map Submissions Open!
 
 We know it's been a busy season, and a few of you reached out about
-missing the original deadline for the FOSS4G 2025 Map Gallery 
+missing the original deadline for the FOSS4G 2025 Map Gallery
 submissions. So... we’ve decided to give everyone a little more time!
 
-**Map submission is now open until July 14th!
-**Submit your stunning cartographic creations at info-europe@foss4g.org with the subject
+**Map submission is now open until July 14th!**
+
+Submit your stunning cartographic creations at info-europe@foss4g.org with the subject
 line "First Name, Last Name - Map Gallery."
 
 Whether it’s beautiful, bold, interactive, or classic — we want to see your maps!
-Don't let your masterpiece sit in a folder. Share it with the FOSS4G community! 
+Don't let your masterpiece sit in a folder. Share it with the FOSS4G community!
 
 
 In Bosnia and Herzegovina, the adoption of GIS technologies is limited, and

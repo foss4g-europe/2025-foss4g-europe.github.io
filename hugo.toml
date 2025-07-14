@@ -847,10 +847,10 @@ title = "facebook"
 icon = "fa-brands fa-facebook"
 link = "https://www.facebook.com/foss4ge/"
 
-#[[params.social]]
-#title = "google-play"
-#icon = "fa-brands fa-google-play"
-#link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+[[params.social]]
+title = "google-play"
+icon = "fa-brands fa-google-play"
+link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
 
 [[params.social]]
 title = "f-droid"

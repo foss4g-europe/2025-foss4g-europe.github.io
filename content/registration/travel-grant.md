@@ -17,7 +17,7 @@ layout: "single"
 
 <center>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
@@ -148,7 +148,7 @@ collaboration with representatives from each FOSS4G event.
 
 <center>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">

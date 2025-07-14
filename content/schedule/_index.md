@@ -43,8 +43,8 @@ layout : "single"
       <tr>
         <td class="tg-body" rowspan="2"><a href="./city-tour/"><b>Free city tour<br>18:00-19:15</b></a></td>
         <td class="tg-body"><a href="./city-tour/"><b>Free city tour<br>18:00-19:15</b></a><hr><a href="./b2b/"><b>B2B<br>18:30-20:45</b></a></td>
-        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
-        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:00-19:00</b></a></td>
+        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:30-19:30</b></a></td>
+        <td class="tg-body"><a href="./bof/"><b>BoF<br>18:15-19:15</b></a></td>
         <td class="tg-body" rowspan="2"></td>
       </tr>
       <tr>

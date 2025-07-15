@@ -5,7 +5,7 @@ banner:
   heading_2 : "Mostar, Bosnia-Herzegovina"
   content : "14-20 July 2025 Mostar"
   timer:
-    enable : true
+    enable : false
     year : 2025
     month : 7
     day : 14

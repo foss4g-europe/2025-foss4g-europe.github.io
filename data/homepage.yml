@@ -10,9 +10,9 @@ banner:
     month : 7
     day : 14
   button:
-    enable: false
-    label: "registration"
-    link: "/registration/"
+    enable: yes
+    label: "live stream"
+    link: "/livestream/"
   # button:
   #   enable : true
   #   label : "recordings on youtube"

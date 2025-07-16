@@ -11,8 +11,8 @@ layout: "single"
 ---
 
 
-<!--center>
-{{< extlink
+<center>
+<!--{{< extlink
     href="https://av.tib.eu/series/1825"
     title="Recordings on TIB-AV"       
     class="btn btn-primary btn-lg"
@@ -27,6 +27,12 @@ layout: "single"
     title="Photos"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
+-->
+{{< extlink
+    href="/livestream/"
+    title="Live streams"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
 </center>
 <hr>
 
@@ -36,4 +42,4 @@ layout: "single"
     title="Academic track proceedings"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
-</center-->
+</center>

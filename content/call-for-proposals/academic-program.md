@@ -38,6 +38,15 @@ layout: "single"
 >}}
 </p>
 <p>
+{{<
+    extlink
+    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
+    title="Proceedings"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
+<p>
   <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
 </p>
 </center>
@@ -195,6 +204,15 @@ All papers should be formatted according to the ISPRS author’s guidelines
     href="https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp"
     title="Submit a proposal for academic program"       
     class="btn btn-primary btn-lg disabled"
+    rel="noopener noreferrer"
+>}}
+</p>
+<p>
+{{<
+    extlink
+    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
+    title="Proceedings"       
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
 >}}
 </p>

@@ -13,14 +13,14 @@ banner:
     enable: yes
     label: "live stream"
     link: "/livestream/"
+  button_2:
+    enable : true
+    label : "Academic track proceedings"
+    link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
   # button:
   #   enable : true
   #   label : "recordings on youtube"
   #   link : "https://www.youtube.com/watch?v=NT7BifRbPqQ&list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5"
-  # button_2:
-  #   enable : true
-  #   label : "Academic track proceedings"
-  #   link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
   # button_3:
   #   enable : true
   #   label : "Photos"

@@ -38,7 +38,7 @@ layout: "single"
 
 <center>
 {{< extlink
-    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
+    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
     title="Academic track proceedings"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}

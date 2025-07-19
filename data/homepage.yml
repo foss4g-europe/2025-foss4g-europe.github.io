@@ -10,13 +10,13 @@ banner:
     month : 7
     day : 14
   button:
-    enable: yes
-    label: "live stream"
-    link: "/livestream/"
-  button_2:
     enable : true
     label : "Academic track proceedings"
     link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
+  button_2:
+    enable: yes
+    label: "stream recordings"
+    link: "/livestream/"
   # button:
   #   enable : true
   #   label : "recordings on youtube"

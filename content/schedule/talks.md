@@ -30,7 +30,7 @@ layout: "single"
 -->
 {{< extlink
     href="/livestream/"
-    title="Live streams"       
+    title="Stream recordings"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 </center>

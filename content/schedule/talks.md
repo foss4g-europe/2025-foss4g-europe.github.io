@@ -28,7 +28,6 @@ layout: "single"
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 -->
-<center>
 <p>
 {{< extlink
     href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"

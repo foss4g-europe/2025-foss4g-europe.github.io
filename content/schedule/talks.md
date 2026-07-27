@@ -28,18 +28,32 @@ layout: "single"
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 -->
-{{< extlink
-    href="/livestream/"
-    title="Stream recordings"       
-    class="btn btn-primary btn-lg"
-    rel="noopener noreferrer" >}}
-</center>
-<hr>
-
 <center>
+<p>
 {{< extlink
     href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
     title="Academic track proceedings"       
     class="btn btn-primary btn-lg"
-    rel="noopener noreferrer" >}}
+    rel="noopener noreferrer"
+>}}
+</p>
+<p>
+  <h3>Video recordings</h3>
+</p>
+<p>
+{{<
+    extlink
+    href="https://video.osgeo.org/w/p/9sWfVNpmAxzTf46xU42Vmj?playlistPosition=1"
+    title="OSGeo PeerTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+{{<
+    extlink
+    href="https://www.youtube.com/playlist?list=PLqa06jy1NEM0Ss-CMTP4LrOw0f5aeVHdk"
+    title="YouTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
 </center>

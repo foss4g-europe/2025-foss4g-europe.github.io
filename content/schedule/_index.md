@@ -63,7 +63,7 @@ layout : "single"
 <hr>
 <center>
     <a href="https://pretix.eu/foss4ge2025/mostar/"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2025.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">

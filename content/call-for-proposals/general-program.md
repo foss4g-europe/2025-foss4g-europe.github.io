@@ -58,6 +58,25 @@ channels and update timings here.
 <p>
   <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
 </p>
+<p>
+<h3>Video recordings</h3>
+</p>
+<p>
+{{<
+    extlink
+    href="https://video.osgeo.org/w/p/9sWfVNpmAxzTf46xU42Vmj?playlistPosition=1"
+    title="OSGeo PeerTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+{{<
+    extlink
+    href="https://www.youtube.com/playlist?list=PLqa06jy1NEM0Ss-CMTP4LrOw0f5aeVHdk"
+    title="YouTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
 </center>
 </div>
 <hr>
@@ -281,6 +300,25 @@ consider the proposal carefully.
 </p>
 <p>
   <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+</p>
+<p>
+<h3>Video recordings</h3>
+</p>
+<p>
+{{<
+    extlink
+    href="https://video.osgeo.org/w/p/9sWfVNpmAxzTf46xU42Vmj?playlistPosition=1"
+    title="OSGeo PeerTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+{{<
+    extlink
+    href="https://www.youtube.com/playlist?list=PLqa06jy1NEM0Ss-CMTP4LrOw0f5aeVHdk"
+    title="YouTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
 </p>
 </center>
 </div>

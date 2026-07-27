@@ -44,7 +44,7 @@ about:
     and students access to world-class education and insights from global
     experts, all while facilitating networking and knowledge exchange."
   button_solid:
-    enable : true
+    enable : false
     label : "Buy ticket"
     link : "registration/"
   button_outline:

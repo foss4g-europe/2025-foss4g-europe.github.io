@@ -317,11 +317,11 @@ hasChildren = true
   name = "Our Sponsors and partners"
   url = "sponsors/"
 
-#  [[menu.main]]
-#    weight = 3
-#    parent = "Sponsors"
-#    name = "Our partners"
-#    url = "partners/"
+  [[menu.main]]
+    weight = 3
+    parent = "Sponsors"
+    name = "Honourable mentions"
+    url = "sponsors/honorable-mentions/"
 
   [[menu.main]]
   weight = 4
